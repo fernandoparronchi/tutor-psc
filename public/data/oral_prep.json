@@ -1,0 +1,32 @@
+{
+    "title": "Guía Maestra para el Final Oral",
+    "description": "Este guion conecta todas las unidades para que puedas narrar la materia como un único proceso histórico coherente.",
+    "intro": "Para aprobar el final, no debes recitar las unidades por separado. Debes demostrar que entiendes la **Lógica del Proceso Histórico**. La materia cuenta la historia del ascenso, consolidación y crisis del **Capitalismo**, usando las herramientas de la Historia Social (Unidad 1).",
+    "sections": [
+        {
+            "id": "u1_u2",
+            "title": "El Método y el Origen (Unidades 1 y 2)",
+            "content": "Argumento Central: Antes de estudiar los hechos, definimos la mirada. Usamos la **Historia Social** (Vilar) para ver la **Totalidad** (Cortese). No vemos 'economía' y 'política' por separado, sino **Modos de Producción**.\n\nCon esta lupa, miramos el primer gran cambio: la **Transición del Feudalismo al Capitalismo**. \n\n*   **El Punto de Partida (Feudalismo):** Un mundo estático, rural, donde el Señor extrae el excedente del Siervo por la fuerza (coacción extra-económica).\n*   **El Motor del Cambio:** La crisis del siglo XIV y la peste debilitan a los señores. \n*   **El Proceso Clave (Acumulación Originaria):** ¿De dónde sale el Capitalismo? No del ahorro, sino del **despojo**. Los campesinos son expulsados de sus tierras (Cercamientos) y se convierten en 'trabajadores libres' que no tienen nada más que vender que su fuerza de trabajo. Así nace la **clase obrera** y la **burguesía**."
+        },
+        {
+            "id": "u3",
+            "title": "La Doble Revolución: El Triunfo Burgués (Unidad 3)",
+            "content": "Una vez que el capitalismo nace en Inglaterra, necesita consolidarse. Esto ocurre a través de dos revoluciones paralelas que crean el mundo moderno (Hobsbawm):\n\n1.  **Revolución Industrial (Económica):** La fábrica. El capital se hace industrial. Surge el **Proletariado** urbano masivo con conciencia de clase.\n2.  **Revolución Francesa (Política):** La burguesía toma el poder del Estado. 'Libertad, Igualdad, Fraternidad' son las consignas para romper las cadenas feudales, pero pronto la burguesía debe frenar a los sectores populares (Jacobinos).\n\n**Conclusión U3:** La burguesía gana el poder económico y político. Pero nace su antagonista: la clase obrera organizada (Sindicatos, Cartismo, La Comuna de París 1871)."
+        },
+        {
+            "id": "u4",
+            "title": "Expansión y Crisis: El Imperialismo (Unidad 4)",
+            "content": "A fines del siglo XIX, el capitalismo cambia. Ya no es 'libre competencia'. Se vuelve **Monopólico**. \n\n*   **Imperialismo (Lenin):** Las potencias se reparten el mundo (África, Asia) porque necesitan mercados y materias primas.\n*   **Consecuencia Inevitable:** El choque entre potencias lleva a la **Primera Guerra Mundial**.\n*   **La Ruptura:** En 1917, la clase obrera toma el poder en Rusia (Revolución Rusa), desafiando por primera vez al sistema.\n*   **La Crisis Económica:** En 1929, el sistema colapsa por sus propias contradicciones (especulación). \n*   **La Salida:** Surgen dos respuestas: el **Fascismo/Nazismo** (salida autoritaria) y el **Keynesianismo/New Deal** (el Estado interviene para salvar al capitalismo). Todo desemboca en la **Segunda Guerra Mundial**."
+        },
+        {
+            "id": "u5",
+            "title": "El Mundo Actual: Bipolaridad y Neoliberalismo (Unidad 5)",
+            "content": "Tras 1945, el mundo se divide en dos (Guerra Fría): Capitalismo (EEUU) vs. Comunismo (URSS).\n\n*   **Edad de Oro (1945-1973):** El capitalismo crece con el **Estado de Bienestar**. Derechos laborales, altos salarios, consumo.\n*   **La Crisis del Petróleo (1973):** Se rompe este pacto. El capital dice 'basta'.\n*   **Neoliberalismo:** Es la respuesta del capital para recuperar ganancia. Se desmantela el Estado, se privatiza, se precariza el trabajo (Globalización).\n*   **Finales del s. XX:** Cae la URSS (1991). EEUU parece ganar, pero surgen nuevas potencias (China) y nuevas crisis (climática, desigualdad).\n\n**Cierre para el Oral:** 'Así, vemos cómo la historia no es una foto estática, sino un proceso de lucha por la apropiación del excedente que nos trajo hasta la realidad precaria de hoy'."
+        }
+    ],
+    "tips": [
+        "Usa conectores como: 'Esto nos lleva a...', 'La consecuencia directa fue...', 'Como vimos en la unidad anterior...'.",
+        "Si te preguntan por un hecho (ej. Rev. Francesa), empeza por las CAUSAS estructurales (crisis del feudalismo) y terminá en las CONSECUENCIAS (ascenso burgués).",
+        "Menciona siempre a los autores (Vilar, Hobsbawm, Lenin) para dar autoridad a tu relato."
+    ]
+}
