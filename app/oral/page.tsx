@@ -33,8 +33,11 @@ export default function OralPrepPage() {
     if (loading) return <div className="text-center text-primary-500 animate-pulse mt-20">Cargando Guía Maestra...</div>;
     if (!data) return <div className="text-center text-red-500 mt-20">Error al cargar la guía.</div>;
 
+
     // Combine all content for the audio player
-    const fullAudioText = `${data.title}. ${data.intro}. ${data.sections.map(s => `${s.title}. ${s.content}`).join(" ")}. Consejos finales: ${data.tips.join(" ")}`;
+    const fullAudioText = data
+        ? `${data.title}. ${data.intro}. ${data.sections.map(s => `${s.title}. ${s.content}`).join(" ")}. Consejos finales: ${data.tips.join(" ")}`
+        : "";
 
     return (
         <div className="max-w-4xl mx-auto space-y-12 pb-20">
