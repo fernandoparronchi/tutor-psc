@@ -1,18 +1,19 @@
-"use client";
-
-import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Unit } from "@/types";
+import { SYLLABUS } from "@/lib/data.server";
 
 export default function MapaPage() {
-    const [units, setUnits] = useState<Unit[]>([]);
+    const units = SYLLABUS;
 
-    useEffect(() => {
-        fetch("/data/syllabus.json")
-            .then((res) => res.json())
-            .then((data) => setUnits(data.unidades))
-            .catch((err) => console.error("Error loading syllabus:", err));
-    }, []);
+    if (!units || units.length === 0) {
+        return (
+            <div className="flex flex-col items-center justify-center min-h-[50vh] space-y-4">
+                <div className="text-xl text-gray-400">No se encontró el programa.</div>
+                <Link href="/" className="text-primary-400 hover:text-primary-300">
+                    Volver al inicio
+                </Link>
+            </div>
+        );
+    }
 
     return (
         <div className="space-y-8">

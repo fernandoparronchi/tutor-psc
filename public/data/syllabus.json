@@ -16,7 +16,8 @@
                 "Estructura y coyuntura.",
                 "Periodización histórica según Modos de Producción: Esclavismo, Feudalismo, Capitalismo, Socialismo y Comunismo.",
                 "Formaciones Sociales."
-            ]
+            ],
+            "duracion": "2 semanas"
         },
         {
             "numero": 2,
@@ -36,7 +37,8 @@
                 "Crisis Feudal. Dos Españas y Dos Américas. La supervivencia del feudalismo español.",
                 "La revolución industrial en Gran Bretaña: transformaciones agrícolas, crecimiento demográfico e innovaciones técnicas.",
                 "Nuevas relaciones de producción, modificación de la estructura social y condiciones de vida de la clase obrera."
-            ]
+            ],
+            "duracion": "3 semanas"
         },
         {
             "numero": 3,
@@ -56,7 +58,8 @@
                 "Ludismo, Sindicalismo, movimiento Cartista, Anarquismo y Socialismo.",
                 "La Asociación Internacional de los Trabajadores.",
                 "Ensayo y derrota del primer gobierno obrero: la Comuna de París (1871)."
-            ]
+            ],
+            "duracion": "3 semanas"
         },
         {
             "numero": 4,
@@ -74,7 +77,8 @@
                 "Crisis del 29: respuestas a la crisis y América Latina ante la Gran Depresión.",
                 "Surgimiento del Nazi fascismo.",
                 "La Segunda Guerra Mundial: lucha por un nuevo reparto mundial, triunfo aliado y hegemonía nuclear."
-            ]
+            ],
+            "duracion": "3 semanas"
         },
         {
             "numero": 5,
@@ -94,7 +98,8 @@
                 "El capitalismo del siglo XXI: sistema profundamente desigual.",
                 "Nueva fase imperialista, lógica extractivista y acumulación por despojo.",
                 "Disputas interimperialistas: declive de EEUU y emergencia de China como potencia mundial."
-            ]
+            ],
+            "duracion": "3 semanas"
         }
     ]
 }

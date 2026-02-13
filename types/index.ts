@@ -51,3 +51,21 @@ export interface UserProgress {
     flashcardMastery: Record<string, number>; // cardId -> ease factor
     streak: number;
 }
+
+export interface OralSection {
+    id: string;
+    title: string;
+    content: {
+        summary: string;     // Resumen 30s
+        academic: string;    // Nivel Universitario (lo actual)
+        grounded: string;    // A tierra / Explicación simple
+    };
+}
+
+export interface OralData {
+    title: string;
+    description: string;
+    intro: string;
+    sections: OralSection[];
+    tips: string[];
+}
