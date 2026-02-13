@@ -3,20 +3,51 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { loadProgress, getDueItems } from "@/lib/srs";
 
 export default function Dashboard() {
   const [progress, setProgress] = useState(0);
+  const [srsDueCount, setSrsDueCount] = useState(0);
+  const [streak, setStreak] = useState(0);
 
   useEffect(() => {
-    // Mock progress loading
-    setTimeout(() => setProgress(35), 500);
+    // Load real progress
+    const srsData = loadProgress();
+    const due = getDueItems(srsData);
+    setSrsDueCount(due.length);
+
+    // Mock general progress for now (could be calculated from SRS mastery items / total items)
+    // For demo purposes:
+    const totalItems = Object.keys(srsData).length || 50; // default denominator
+    const masteredItems = Object.values(srsData).filter(i => i.box > 3).length;
+    setProgress(Math.round((masteredItems / totalItems) * 100) || 15); // Default 15% start
+
+    // Mock streak
+    setStreak(3);
   }, []);
 
-  const tasks = [
-    { id: 0, title: "Estudiar Guía Final Oral (Prioridad)", completed: false, type: "oral", href: "/oral" },
-    { id: 1, title: "Escuchar Unidad 2: Resumen", completed: true, type: "audio", href: "/unidad/2" },
-    { id: 2, title: "Quiz: Revolución Industrial (Unidad 2)", completed: false, type: "quiz", href: "/unidad/2" },
-    { id: 3, title: "Repaso Flashcards: Imperialismo (Unidad 4)", completed: false, type: "flashcards", href: "/unidad/4" },
+  const todayTasks = [
+    {
+      id: "srs",
+      title: `Repaso Diario (${srsDueCount} pendientes)`,
+      completed: srsDueCount === 0,
+      type: "SRS",
+      href: "/repaso"
+    },
+    {
+      id: "oral",
+      title: "Estudiar Guía Final Oral",
+      completed: false,
+      type: "oral",
+      href: "/oral"
+    },
+    {
+      id: "simulacro",
+      title: "Simulacro de Examen",
+      completed: false,
+      type: "simulacro",
+      href: "/simulacro"
+    },
   ];
 
   return (
@@ -39,10 +70,10 @@ export default function Dashboard() {
           <div className="absolute top-0 right-0 p-4 opacity-50 text-6xl text-primary-500/20 font-bold group-hover:scale-110 transition-transform">
             %
           </div>
-          <h3 className="text-lg font-medium text-gray-300">Progreso Total</h3>
+          <h3 className="text-lg font-medium text-gray-300">Dominio Real (SRS)</h3>
           <div className="mt-4 flex items-end gap-2">
             <span className="text-5xl font-bold text-white">{progress}%</span>
-            <span className="text-sm text-gray-400 mb-2">del programa cubierto</span>
+            <span className="text-sm text-gray-400 mb-2">del contenido maestro</span>
           </div>
           <div className="w-full bg-gray-800 h-2 rounded-full mt-4 overflow-hidden">
             <div
@@ -52,24 +83,33 @@ export default function Dashboard() {
           </div>
         </div>
 
-        {/* Streak */}
-        <div className="glass p-6 rounded-2xl">
-          <h3 className="text-lg font-medium text-gray-300">Racha de Estudio</h3>
+        {/* SRS Card (Replaces Streak for now or combined) */}
+        <Link href="/repaso" className="glass p-6 rounded-2xl block hover:border-primary-500/50 transition-colors group">
+          <div className="flex justify-between items-start">
+            <h3 className="text-lg font-medium text-gray-300 group-hover:text-white transition-colors">Repaso Espaciado</h3>
+            <span className="text-2xl">🧠</span>
+          </div>
           <div className="mt-4">
-            <span className="text-5xl font-bold text-white">3</span>
+            <div className="flex items-baseline gap-2">
+              <span className={`text-5xl font-bold ${srsDueCount > 0 ? "text-primary-400" : "text-green-400"}`}>
+                {srsDueCount}
+              </span>
+              <span className="text-sm text-gray-400">pendientes hoy</span>
+            </div>
+          </div>
+          <p className="text-xs text-gray-500 mt-3">
+            {srsDueCount > 0 ? "¡No rompas la cadena de olvido!" : "¡Todo al día! Gran trabajo."}
+          </p>
+        </Link>
+
+        {/* Streak / Weak Spot Combined */}
+        <div className="glass p-6 rounded-2xl border-l-4 border-l-yellow-500">
+          <h3 className="text-lg font-medium text-gray-300">Racha Actual</h3>
+          <div className="mt-4">
+            <span className="text-5xl font-bold text-white">{streak}</span>
             <span className="text-sm text-gray-400 ml-2">días seguidos</span>
           </div>
-          <p className="text-xs text-gray-500 mt-2">¡Mantén el ritmo para fijar conocimientos!</p>
-        </div>
-
-        {/* Weak Spot */}
-        <div className="glass p-6 rounded-2xl border-l-4 border-l-red-500">
-          <h3 className="text-lg font-medium text-gray-300">Foco Sugerido</h3>
-          <p className="mt-2 text-white font-medium">Unidad 3: Revolución Francesa</p>
-          <p className="text-xs text-gray-500 mt-1">Tu rendimiento en quizzes fue bajo (40%).</p>
-          <Link href="/unidad/3" className="mt-4 inline-block text-sm text-primary-400 hover:text-primary-300 font-medium">
-            Ir a repasar →
-          </Link>
+          <p className="text-xs text-gray-500 mt-2">Próximo hito: 7 días</p>
         </div>
       </section>
 
@@ -77,7 +117,7 @@ export default function Dashboard() {
       <section>
         <h3 className="text-2xl font-heading font-bold text-white mb-6">Plan para Hoy</h3>
         <div className="bg-dark-card border border-dark-border rounded-2xl overflow-hidden divide-y divide-dark-border">
-          {tasks.map((task) => (
+          {todayTasks.map((task) => (
             <Link
               key={task.id}
               href={task.href}
@@ -87,10 +127,10 @@ export default function Dashboard() {
                 <div className="flex items-center gap-4">
                   <div className={cn(
                     "w-6 h-6 rounded border-2 flex items-center justify-center transition-colors",
-                    task.completed ? "bg-primary-500 border-primary-500" : "border-gray-600 group-hover:border-primary-400"
+                    task.completed ? "bg-green-500 border-green-500" : "border-gray-600 group-hover:border-primary-400"
                   )}>
                     {task.completed && (
-                      <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <svg className="w-4 h-4 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                       </svg>
                     )}
@@ -103,9 +143,14 @@ export default function Dashboard() {
                   </div>
                 </div>
                 <span
-                  className="px-4 py-2 text-sm bg-dark-bg border border-dark-border rounded-lg text-gray-300 group-hover:text-white group-hover:border-gray-500 transition-all"
+                  className={cn(
+                    "px-4 py-2 text-sm bg-dark-bg border rounded-lg transition-all",
+                    task.completed
+                      ? "border-green-900/30 text-green-500"
+                      : "border-dark-border text-gray-300 group-hover:text-white group-hover:border-gray-500"
+                  )}
                 >
-                  {task.completed ? "Repetir" : "Iniciar"}
+                  {task.completed ? "Completado" : "Iniciar"}
                 </span>
               </div>
             </Link>

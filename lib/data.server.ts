@@ -163,3 +163,30 @@ export const ORAL_GUIDE: OralData = {
         "Usa términos técnicos: 'Plusvalía', 'Hegemonía', 'Coacción extra-económica'."
     ]
 };
+
+import { SRSQuestion } from "@/types";
+
+export const SRS_QUESTIONS: SRSQuestion[] = [
+    // Unidad 1
+    { id: "u1-q1", unitId: 1, topic: "Historia Social", question: "¿Qué diferencia existe entre 'estructura' y 'coyuntura' según Braudel?", answer: "La estructura refiere a la larga duración (siglos, ej. feudalismo), mientras que la coyuntura son los ritmos medios y cortos (décadas/años, ej. crisis económicas, elecciones)." },
+    { id: "u1-q2", unitId: 1, topic: "Modo de Producción", question: "¿Qué elementos componen el Modo de Producción?", answer: "Fuerzas Productivas (medios de producción + fuerza de trabajo) y Relaciones Sociales de Producción (quién se apropia del excedente)." },
+    { id: "u1-q3", unitId: 1, topic: "Objeto de Estudio", question: "¿Cómo define Pierre Vilar el objeto de la historia?", answer: "Como el estudio de la dinámica de las sociedades humanas (Totalidad Social) en el tiempo." },
+
+    // Unidad 2
+    { id: "u2-q1", unitId: 2, topic: "Transición", question: "¿Qué fue la Acumulación Originaria según Marx?", answer: "El proceso histórico de disociación entre el productor y los medios de producción. No fue ahorro, sino saqueo y violencia (cercamientos, colonialismo)." },
+    { id: "u2-q2", unitId: 2, topic: "Feudalismo", question: "¿Qué caracteriza la relación de servidumbre en el feudalismo?", answer: "Es una relación de coacción extra-económica. El señor extrae el excedente del campesino por la fuerza/ley, no por el mercado." },
+    { id: "u2-q3", unitId: 2, topic: "Rev. Industrial", question: "¿Por qué la Revolución Industrial ocurrió en Inglaterra?", answer: "Por la acumulación previa de capital (comercio/colonias), la disponibilidad de mano de obra (cercamientos) y recursos naturales (carbón/hierro)." },
+
+    // Unidad 3
+    { id: "u3-q1", unitId: 3, topic: "Doble Revolución", question: "¿Qué significa el concepto de 'Doble Revolución' de Hobsbawm?", answer: "La coincidencia histórica de la Revolución Industrial (económica, triunfo del capitalismo) y la Revolución Francesa (política, triunfo de la burguesía)." },
+    { id: "u3-q2", unitId: 3, topic: "Clase Obrera", question: "¿Qué fue el Ludismo?", answer: "La primera forma de resistencia obrera, caracterizada por la destrucción de máquinas, vistas como causantes del desempleo." },
+    { id: "u3-q3", unitId: 3, topic: "Político", question: "¿Qué demostró la Comuna de París (1871)?", answer: "Que la clase obrera podía tomar el poder político y organizar un gobierno propio, aunque fue derrotada por la burguesía." },
+
+    // Unidad 4
+    { id: "u4-q1", unitId: 4, topic: "Imperialismo", question: "¿Cuáles son los 5 rasgos del Imperialismo según Lenin?", answer: "1. Monopolios. 2. Capital Financiero. 3. Exportación de Capitales. 4. Reparto económico (Asociaciones). 5. Reparto territorial del mundo." },
+    { id: "u4-q2", unitId: 4, topic: "Crisis del 29", question: "¿Cuál fue la causa estructural de la Crisis del 29?", answer: "La sobreproducción relativa y la especulación financiera desenfrenada, propias de la anarquía del mercado capitalista." },
+
+    // Unidad 5
+    { id: "u5-q1", unitId: 5, topic: "Guerra Fría", question: "¿Qué fue la Doctrina Truman?", answer: "La política exterior de EEUU para la 'contención' del comunismo a nivel global durante la Guerra Fría." },
+    { id: "u5-q2", unitId: 5, topic: "Neoliberalismo", question: "¿Qué es el Consenso de Washington?", answer: "Un paquete de medidas económicas (privatización, desregulación, apertura comercial) impuesto a América Latina en los 90." },
+];

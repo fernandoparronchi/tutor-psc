@@ -28,6 +28,22 @@ export interface TimelineEvent {
     duracion?: string; // e.g. "2 semanas"
 }
 
+export interface SRSQuestion {
+    id: string;
+    unitId: number;
+    question: string;
+    answer: string;
+    topic: string;
+}
+
+export interface SRSItem {
+    questionId: string;
+    box: number; // 0-5 (Leitner)
+    nextReview: number; // timestamp
+    lastReviewed: number; // timestamp
+    history: number[]; // 0=No lo sé, 1=Dudé, 2=Lo sé (history of ratings)
+}
+
 export interface QuizQuestion {
     question: string;
     options: string[];
@@ -48,8 +64,9 @@ export interface FAQ {
 export interface UserProgress {
     completedUnits: number[];
     quizScores: Record<string, number>; // unitId -> score
-    flashcardMastery: Record<string, number>; // cardId -> ease factor
+    srsItems: Record<string, SRSItem>; // questionId -> Item data
     streak: number;
+    lastStudyDate: string; // ISO date
 }
 
 export interface OralSection {
