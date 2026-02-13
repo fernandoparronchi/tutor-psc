@@ -1,0 +1,181 @@
+{
+    "unit4": {
+        "summary": "La Unidad 4 aborda la transformación del capitalismo hacia su fase superior: el imperialismo. Según Lenin y Laufer, a finales del siglo XIX, el capitalismo de libre competencia devino en monopolista. Esta fase se caracteriza por cinco rasgos fundamentales: el surgimiento de monopolios que dominan la vida económica, la fusión del capital bancario e industrial creando el 'capital financiero', el predominio de la exportación de capitales sobre la de mercancías, y el reparto económico y territorial del mundo entre las grandes potencias [1, 2]. Laufer explica que esta estructura genera una cadena de dominación donde los países se dividen en opresores y oprimidos (coloniales, semicoloniales y dependientes), siendo estos últimos controlados a través de la alianza entre el capital extranjero y las clases dominantes locales (terratenientes y burguesía intermediaria) [3-5].\n\nLas contradicciones inherentes a esta fase, especialmente la rivalidad entre potencias por el reparto de mercados y esferas de influencia, condujeron inevitablemente a la Primera Guerra Mundial (1914-1918), caracterizada como una guerra de rapiña imperialista [6, 7]. Este conflicto debilitó el sistema global, permitiendo el triunfo de la Revolución Rusa en 1917, lo que inauguró una era de revolución proletaria y cambió la naturaleza de la cuestión nacional [8, 9].\n\nEl período de entreguerras estuvo marcado por la inestabilidad. La crisis de 1929 expuso el carácter parasitario y especulativo del capital financiero [10, 11]. En este contexto de crisis y amenaza revolucionaria, surgió el fascismo y el nazismo. Gastiazoro analiza cómo la política de 'no intervención' de las potencias occidentales (Francia e Inglaterra) ante el avance fascista fue en realidad una complicidad para dirigir la agresión alemana hacia la URSS [12, 13]. Esto desembocó en la Segunda Guerra Mundial, la cual Gastiazoro define no como un conflicto único, sino como la amalgama de tres guerras: una interimperialista (Eje vs. Aliados), una de defensa del socialismo (Alemania vs. URSS) y una de liberación nacional (como China contra Japón) [14].",
+        "quiz": [
+            {
+                "question": "Según Lenin, ¿cuál es el rasgo económico fundamental que define al imperialismo?",
+                "options": [
+                    "El libre mercado y la competencia perfecta.",
+                    "La exportación de mercancías como actividad principal.",
+                    "El dominio de los monopolios y el capital financiero.",
+                    "La independencia política total de las naciones."
+                ],
+                "correctAnswer": 2,
+                "explanation": "El dominio de los monopolios y el capital financiero."
+            },
+            {
+                "question": "Según Laufer, ¿qué es el 'capital financiero'?",
+                "options": [
+                    "Dinero utilizado exclusivamente para la especulación bursátil.",
+                    "La fusión del capital bancario con el capital industrial.",
+                    "Préstamos otorgados por el Estado a las empresas.",
+                    "El capital de los bancos centrales."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La fusión del capital bancario con el capital industrial."
+            },
+            {
+                "question": "¿Cómo define Laufer a los 'países dependientes' como Argentina?",
+                "options": [
+                    "Países ocupados militarmente por una potencia extranjera.",
+                    "Países con independencia política formal pero dominados económicamente a través de una alianza entre el capital imperialista y las clases dominantes locales.",
+                    "Países que no tienen relaciones comerciales con el exterior.",
+                    "Colonias directas sin gobierno propio."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Países con independencia política formal pero dominados económicamente a través de una alianza entre el capital imperialista y las clases dominantes locales."
+            },
+            {
+                "question": "Según Gastiazoro, ¿qué caracterizó la política de Chamberlain y Daladier antes de la Segunda Guerra Mundial?",
+                "options": [
+                    "Una firme oposición al fascismo desde el principio.",
+                    "Una política de 'no intervención' que buscaba dirigir la agresión alemana hacia la Unión Soviética.",
+                    "Una alianza inmediata con la URSS.",
+                    "El apoyo incondicional a la República Española."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Una política de 'no intervención' que buscaba dirigir la agresión alemana hacia la Unión Soviética."
+            },
+            {
+                "question": "¿Qué elemento distingue al 'nuevo imperialismo' según Hobson citado por Laufer?",
+                "options": [
+                    "La búsqueda de paz universal.",
+                    "La competencia entre imperios rivales y la preponderancia de la inversión de capitales.",
+                    "El retorno al feudalismo.",
+                    "La exportación exclusiva de productos agrícolas."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La competencia entre imperios rivales y la preponderancia de la inversión de capitales."
+            },
+            {
+                "question": "Según Gastiazoro, ¿cuál fue el carácter complejo de la Segunda Guerra Mundial?",
+                "options": [
+                    "Fue solamente una guerra por la democracia.",
+                    "Comprendió tres guerras distintas: interimperialista, capitalismo vs. socialismo, y liberación nacional.",
+                    "Fue una repetición exacta de la Primera Guerra Mundial.",
+                    "Fue exclusivamente una guerra racial."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Comprendió tres guerras distintas: interimperialista, capitalismo vs. socialismo, y liberación nacional."
+            },
+            {
+                "question": "¿Qué fenómeno económico aceleró la concentración monopolista según Laufer?",
+                "options": [
+                    "Las crisis económicas, como la de 1873.",
+                    "La paz mundial.",
+                    "La reducción de impuestos.",
+                    "El aumento de salarios."
+                ],
+                "correctAnswer": 0,
+                "explanation": "Las crisis económicas, como la de 1873."
+            },
+            {
+                "question": "¿Cuál es el papel del Estado en la fase imperialista según los textos?",
+                "options": [
+                    "Se mantiene neutral y ajeno a la economía.",
+                    "Se convierte en representante de los intereses de los monopolios y la oligarquía financiera.",
+                    "Defiende exclusivamente a los trabajadores.",
+                    "Desaparece para dar paso al libre mercado puro."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Se convierte en representante de los intereses de los monopolios y la oligarquía financiera."
+            },
+            {
+                "question": "Según Laufer, ¿qué demostró la Primera Guerra Mundial sobre el desarrollo del capitalismo?",
+                "options": [
+                    "Que el desarrollo pacífico es posible a largo plazo.",
+                    "Que el imperialismo lleva inevitablemente a la guerra por el reparto del mundo.",
+                    "Que las colonias no eran importantes.",
+                    "Que la diplomacia puede resolver todos los conflictos económicos."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Que el imperialismo lleva inevitablemente a la guerra por el reparto del mundo."
+            },
+            {
+                "question": "Según Gastiazoro, ¿qué marcó el inicio 'oficial' de la Segunda Guerra Mundial?",
+                "options": [
+                    "El ataque a Pearl Harbor.",
+                    "La invasión nazi a Polonia el 1 de septiembre de 1939.",
+                    "La Guerra Civil Española.",
+                    "El Pacto de Munich."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La invasión nazi a Polonia el 1 de septiembre de 1939."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Imperialismo (Lenin)",
+                "back": "Fase superior del capitalismo caracterizada por los monopolios, el capital financiero, la exportación de capitales y el reparto del mundo [1]."
+            },
+            {
+                "front": "Capital Financiero",
+                "back": "Capital resultante de la fusión y el entrelazamiento del capital bancario con el capital industrial, dando origen a una oligarquía financiera [15, 16]."
+            },
+            {
+                "front": "Exportación de Capitales",
+                "back": "Rasgo distintivo del imperialismo donde se invierte capital en el extranjero para obtener materias primas, mano de obra barata y ganancias, a diferencia de la simple exportación de mercancías [3, 17]."
+            },
+            {
+                "front": "Monopolio",
+                "back": "Concentración de la producción y el capital en pocas manos que elimina la libre competencia, dominando ramas enteras de la industria [2, 18]."
+            },
+            {
+                "front": "País Dependiente",
+                "back": "País con independencia política formal pero dominado económicamente por potencias imperialistas a través de la asociación subordinada de las clases dominantes locales [4, 5]."
+            },
+            {
+                "front": "Burguesía Intermediaria",
+                "back": "Sector de la clase dominante local que se asocia subordinadamente al capital imperialista, actuando como apéndice interno de la dominación extranjera [19]."
+            },
+            {
+                "front": "Crisis de 1929",
+                "back": "Crisis económica mundial que evidenció el carácter parasitario y especulativo del capital financiero y la contradicción entre producción social y apropiación privada [10]."
+            },
+            {
+                "front": "Pacto de Munich (1938)",
+                "back": "Acuerdo donde Inglaterra y Francia aceptaron la desmembración de Checoslovaquia por Hitler, buscando dirigir la agresión nazi hacia la URSS [20]."
+            },
+            {
+                "front": "Guerra de Rapiña",
+                "back": "Término usado (por Lenin/Laufer) para describir la Primera Guerra Mundial como una lucha entre potencias por el reparto de colonias y esferas de influencia [7]."
+            },
+            {
+                "front": "Carácter de la II Guerra Mundial",
+                "back": "Según Gastiazoro, fue una combinación de tres guerras: interimperialista, defensa del socialismo (URSS) y liberación nacional [14]."
+            }
+        ],
+        "faq": [
+            {
+                "question": "¿Qué causó la Primera Guerra Mundial según los textos de la unidad?",
+                "answer": "La causa fundamental fue la rivalidad interimperialista por el reparto del mundo. Al llegar el capitalismo a su fase monopolista, las potencias necesitaban 'espacio vital', mercados y materias primas. Como el mundo ya estaba repartido territorialmente, las potencias emergentes (como Alemania) necesitaban forzar un nuevo reparto mediante la fuerza, haciendo inevitable la guerra [6, 7, 21]."
+            },
+            {
+                "question": "¿Cómo se define la dependencia en América Latina en la época del imperialismo?",
+                "answer": "La dependencia no es solo una imposición externa, sino que se sostiene internamente. Se define por una alianza donde las clases dominantes locales (terratenientes y gran burguesía) se asocian de forma subordinada al capital imperialista. Estas clases actúan como intermediarias, permitiendo el saqueo de recursos y condicionando la política nacional a los intereses extranjeros, manteniendo una apariencia de independencia formal [4, 5, 19]."
+            },
+            {
+                "question": "¿Qué papel jugó el capital financiero en la transformación del capitalismo?",
+                "answer": "El capital financiero, surgido de la fusión entre capital industrial y bancario, marcó el paso al imperialismo. Generó una oligarquía financiera que pasó a dominar no solo la economía sino también el Estado. Introdujo un rasgo parasitario y especulativo en el sistema, viviendo cada vez más de la exportación de capitales (intereses y dividendos del extranjero) en lugar de la producción directa en la metrópoli [11, 15, 16]."
+            },
+            {
+                "question": "¿Cómo afectó la crisis del 29 a la dinámica política mundial?",
+                "answer": "La crisis evidenció los límites del capitalismo liberal y fomentó salidas autoritarias y agresivas. Potenció el surgimiento y consolidación del fascismo y el nazismo como respuestas de la burguesía ante el peligro revolucionario y la necesidad de expansión. También llevó al abandono del libre comercio y al aumento de las disputas interimperialistas que prepararon el camino para la Segunda Guerra Mundial [22, 23]."
+            },
+            {
+                "question": "¿Cuál fue la estrategia de las potencias occidentales (Francia e Inglaterra) ante el ascenso de Hitler antes de 1939?",
+                "answer": "Siguieron una política de 'no intervención' o apaciguamiento (como en Munich). Según Gastiazoro, el objetivo real no era la paz, sino permitir que Alemania se rearmara y se expandiera hacia el Este para que entrara en guerra con la Unión Soviética, esperando que ambos regímenes se destruyeran mutuamente, para luego intervenir las potencias occidentales como árbitros [12, 23]."
+            }
+        ]
+    }
+}

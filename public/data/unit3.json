@@ -1,0 +1,171 @@
+{
+    "unit3": {
+        "summary": "La 'Doble Revolución', concepto acuñado por Eric Hobsbawm, designa el proceso conjunto de la Revolución Industrial inglesa y la Revolución Francesa de 1789, las cuales marcaron el fin del orden feudal y el nacimiento de la sociedad contemporánea [1, 2]. Mientras la Revolución Industrial transformó la base económica mediante el sistema de fábrica y la consolidación del capitalismo, la Revolución Francesa proporcionó el vocabulario y las instituciones políticas liberales y democráticas [2, 3].\n\nEn Gran Bretaña, el proceso de acumulación originaria, caracterizado por los cercamientos de tierras, despojó a los campesinos de sus medios de subsistencia, creando una masa de trabajadores 'libres' (el proletariado) obligados a vender su fuerza de trabajo a cambio de un salario [4, 5]. Esto dio lugar a nuevas contradicciones sociales y al surgimiento de la lucha obrera, que evolucionó desde la destrucción de máquinas (Ludismo) hacia la organización sindical y política (Cartismo) [6, 7].\n\nEste ciclo revolucionario tuvo un impacto directo en América Latina. La expansión napoleónica (consecuencia del proceso francés) provocó la crisis de la monarquía española, dejando un vacío de poder que detonó los movimientos independentistas como la Revolución de Mayo de 1810 [8]. Simultáneamente, la necesidad británica de mercados para sus manufacturas (consecuencia industrial) impulsó el apoyo al libre comercio en las colonias [9, 10]. Sin embargo, estas independencias derivaron en estructuras dependientes bajo el control de oligarquías terratenientes y comerciales [11, 12].\n\nEn Europa, el conflicto de clases se agudizó. Las revoluciones de 1848 marcaron el momento en que el proletariado comenzó a plantear reivindicaciones propias, separándose de la burguesía, la cual se volvió conservadora por temor a la revolución social [13, 14]. Este proceso culminó en 1871 con la Comuna de París, el primer ensayo de un gobierno obrero autónomo, brutalmente reprimido por el Estado burgués [15, 16].",
+        "quiz": [
+            {
+                "question": "¿Qué clase social lideró la primera fase de la Revolución Francesa y qué buscaba principalmente?",
+                "options": [
+                    "El proletariado, buscando el socialismo.",
+                    "La aristocracia, buscando restaurar el feudalismo.",
+                    "La burguesía, buscando igualdad jurídica y fin de privilegios.",
+                    "Los campesinos, buscando la propiedad comunal."
+                ],
+                "answer": "La burguesía, buscando igualdad jurídica y fin de privilegios."
+            },
+            {
+                "question": "¿Qué fue el 'Gran Miedo' en el contexto de la Revolución Francesa?",
+                "options": [
+                    "El temor de la nobleza a la guillotina.",
+                    "Levantamientos campesinos contra el sistema señorial en 1789.",
+                    "La invasión de tropas extranjeras en París.",
+                    "El miedo de la burguesía a los sans-culottes."
+                ],
+                "answer": "Levantamientos campesinos contra el sistema señorial en 1789."
+            },
+            {
+                "question": "¿Cuál fue una consecuencia social directa de los cercamientos (enclosures) en Inglaterra?",
+                "options": [
+                    "El fortalecimiento de la comunidad campesina.",
+                    "La creación de una masa de trabajadores desposeídos (proletariado).",
+                    "La distribución equitativa de la tierra.",
+                    "El retorno al feudalismo."
+                ],
+                "answer": "La creación de una masa de trabajadores desposeídos (proletariado)."
+            },
+            {
+                "question": "¿Qué caracterizó al movimiento ludista?",
+                "options": [
+                    "La lucha por el sufragio universal.",
+                    "La destrucción de máquinas como forma de protesta.",
+                    "La creación de partidos socialistas.",
+                    "La negociación pacífica con los patronos."
+                ],
+                "answer": "La destrucción de máquinas como forma de protesta."
+            },
+            {
+                "question": "¿Quiénes eran los 'sans-culottes'?",
+                "options": [
+                    "La alta nobleza francesa.",
+                    "Sectores populares urbanos radicales de París.",
+                    "Los campesinos propietarios.",
+                    "Los soldados del ejército prusiano."
+                ],
+                "answer": "Sectores populares urbanos radicales de París."
+            },
+            {
+                "question": "¿Qué relación económica hubo entre la Revolución Industrial y las independencias latinoamericanas?",
+                "options": [
+                    "Inglaterra prohibió el comercio con América.",
+                    "La industria local latinoamericana compitió con la inglesa.",
+                    "La necesidad británica de mercados para sus textiles favoreció el libre comercio.",
+                    "No hubo ninguna relación económica significativa."
+                ],
+                "answer": "La necesidad británica de mercados para sus textiles favoreció el libre comercio."
+            },
+            {
+                "question": "¿Qué diferencia principal hubo entre las revoluciones de 1830 y las de 1848?",
+                "options": [
+                    "En 1848 participaron activamente sectores obreros con demandas propias.",
+                    "En 1830 se logró el socialismo.",
+                    "En 1848 no hubo participación popular.",
+                    "En 1830 triunfó la monarquía absoluta."
+                ],
+                "answer": "En 1848 participaron activamente sectores obreros con demandas propias."
+            },
+            {
+                "question": "¿Qué fue la Comuna de París de 1871?",
+                "options": [
+                    "Un golpe de estado monárquico.",
+                    "La primera experiencia de gobierno obrero.",
+                    "Una reforma administrativa de Napoleón III.",
+                    "Un tratado de paz con Prusia."
+                ],
+                "answer": "La primera experiencia de gobierno obrero."
+            },
+            {
+                "question": "¿Qué sector político radical gobernó Francia durante la etapa del 'Terror'?",
+                "options": [
+                    "Los Girondinos.",
+                    "Los Feuillants.",
+                    "Los Jacobinos.",
+                    "Los Monárquicos."
+                ],
+                "answer": "Los Jacobinos."
+            },
+            {
+                "question": "¿Qué industria fue el motor de la primera fase de la Revolución Industrial?",
+                "options": [
+                    "La industria química.",
+                    "La industria del algodón (textil).",
+                    "La industria automotriz.",
+                    "La industria del acero."
+                ],
+                "answer": "La industria del algodón (textil)."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Jacobinos",
+                "back": "Sector político radical de la Revolución Francesa (pequeña burguesía) que, aliado con los sans-culottes, gobernó durante la etapa de la República y el Terror (1793-1794) [17, 18]."
+            },
+            {
+                "front": "Sans-culottes",
+                "back": "Sectores populares urbanos de París (artesanos, tenderos) que impulsaron las fases más radicales de la Revolución Francesa, presionando por igualdad económica y democracia directa [19, 20]."
+            },
+            {
+                "front": "Burguesía",
+                "back": "Clase social propietaria de los medios de producción que lideró la lucha contra el feudalismo y el absolutismo para establecer un orden basado en la propiedad privada y la igualdad jurídica [21, 22]."
+            },
+            {
+                "front": "Comuna de París",
+                "back": "Levantamiento revolucionario de 1871 en el que el pueblo de París estableció el primer gobierno obrero de la historia, adoptando medidas socialistas antes de ser brutalmente reprimido [16, 23]."
+            },
+            {
+                "front": "Doble Revolución",
+                "back": "Concepto de Hobsbawm que refiere a la simultaneidad de la Revolución Industrial (económica) y la Revolución Francesa (política) como fundadoras del mundo contemporáneo [1, 2]."
+            },
+            {
+                "front": "Ludismo",
+                "back": "Movimiento de protesta de trabajadores a inicios del s. XIX que consistía en la destrucción de máquinas, vistas como causantes del desempleo y la miseria [6]."
+            },
+            {
+                "front": "Cartismo",
+                "back": "Primer movimiento político de la clase obrera británica (1830-1840) que reclamaba derechos políticos como el sufragio universal masculino a través de la 'Carta del Pueblo' [7]."
+            },
+            {
+                "front": "Acumulación Originaria",
+                "back": "Proceso histórico de disociación entre el productor y los medios de producción (ej. expulsión de campesinos), base del surgimiento del capital y el trabajo asalariado [4, 24]."
+            },
+            {
+                "front": "Tercer Estado",
+                "back": "Estamento no privilegiado en la Francia prerrevolucionaria (campesinos, burgueses, artesanos) que se autoproclamó Asamblea Nacional en 1789, iniciando la revolución [25, 26]."
+            },
+            {
+                "front": "Proletariado",
+                "back": "Nueva clase social surgida con el capitalismo, compuesta por trabajadores libres pero desposeídos que deben vender su fuerza de trabajo por un salario [27, 28]."
+            }
+        ],
+        "faq": [
+            {
+                "question": "¿Por qué la Revolución Francesa fue burguesa?",
+                "answer": "Fue burguesa porque, aunque contó con la movilización popular, fue dirigida por la burguesía y resultó en la destrucción del orden feudal y la instauración de un sistema basado en la propiedad privada, la libertad de empresa y la igualdad jurídica (no económica), consolidando el poder político de esta clase [29, 30]."
+            },
+            {
+                "question": "¿Qué relación hay entre 1789 y 1810?",
+                "answer": "La Revolución Francesa (1789) derivó en las guerras napoleónicas, cuya invasión a España provocó la acefalía de la monarquía española (prisión de Fernando VII), creando la coyuntura política para que las élites criollas iniciaran los procesos de independencia como la Revolución de Mayo de 1810 [8]."
+            },
+            {
+                "question": "¿Cómo influyó la Revolución Industrial en la independencia de América Latina?",
+                "answer": "La Revolución Industrial generó en Gran Bretaña una necesidad masiva de mercados para sus textiles y fuentes de materias primas. Esto llevó a los ingleses a promover el fin del monopolio español y apoyar el libre comercio en América Latina, coincidiendo con los intereses de las burguesías comerciales criollas [9, 31]."
+            },
+            {
+                "question": "¿Por qué surgieron movimientos como el Ludismo?",
+                "answer": "Surgieron como reacción desesperada de artesanos y trabajadores manuales ante la introducción de maquinaria y el sistema fabril, que destruía sus oficios tradicionales, bajaba los salarios y generaba desempleo. No atacaban la tecnología en sí, sino el uso capitalista que deterioraba sus vidas [6, 32]."
+            },
+            {
+                "question": "¿Qué cambió en las revoluciones de 1848 respecto a las anteriores?",
+                "answer": "En 1848, el proletariado apareció por primera vez con reivindicaciones propias (república social, derecho al trabajo), lo que asustó a la burguesía. Esta, temiendo una revolución social, abandonó su alianza con el pueblo y se unió a las fuerzas conservadoras para reprimir a los trabajadores [13, 14]."
+            }
+        ]
+    }
+}

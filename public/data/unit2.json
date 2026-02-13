@@ -1,0 +1,171 @@
+{
+    "unit2": {
+        "summary": "La transición del feudalismo al capitalismo no fue un proceso natural ni pacífico, sino una transformación histórica violenta y profunda. Según Lecaro, el feudalismo se caracterizaba por relaciones de producción basadas en la tierra y la servidumbre, donde los señores extraían el excedente de los campesinos mediante coacción extraeconómica [1], [2]. Sin embargo, la crisis de este sistema abrió paso a la llamada 'acumulación originaria'. Marx explica que este proceso no fue un idilio de ahorro, sino el proceso histórico de disociación entre el productor y los medios de producción [3]. La base de este proceso fue la expropiación de la tierra a la población rural [4].\n\nEn Inglaterra, este despojo tomó la forma de 'cercamientos' (enclosures). Los grandes señores usurparon bienes comunales y expulsaron a los campesinos para transformar tierras de labor en pastos para ovejas, impulsados por el auge de la manufactura lanera [5], [6]. Giuliani detalla cómo este proceso, legitimado por las Leyes de Cercamientos, creó una masa de proletarios libres y desheredados que no tuvieron más opción que vender su fuerza de trabajo a cambio de un salario [7], [8]. Marx denuncia que esta expropiación fue inscrita en los anales de la historia con 'trazos indelebles de sangre y fuego' [9], utilizando una legislación sanguinaria contra los vagabundos para disciplinar a la nueva fuerza laboral [10].\n\nLa génesis del capital industrial se nutrió también del sistema colonial y la deuda pública. Marx señala que el descubrimiento de oro y plata en América, la esclavización de indígenas y la conversión de África en cazadero de esclavos negros señalaron los albores de la era capitalista [11]. Giuliani agrega que el mercado colonial británico y el comercio triangular fueron claves para la Revolución Industrial, permitiendo la acumulación de capital mercantil [12], [13].\n\nFinalmente, la Revolución Industrial consolidó el sistema de fábrica. Engels describe cómo la invención de la máquina de vapor y la maquinaria textil transformaron la sociedad, engendrando al proletariado industrial [14], [15]. Las condiciones de vida de esta nueva clase eran miserables: hacinamiento en barrios insalubres, jornadas laborales extenuantes y explotación infantil [16], [17]. La fábrica, a diferencia del taller artesanal, impuso una disciplina férrea donde el obrero pasó a servir a la máquina [18], completando así la transición hacia la sociedad burguesa moderna.",
+        "quiz": [
+            {
+                "question": "Según Marx, ¿qué es la 'acumulación originaria'?",
+                "options": [
+                    "El ahorro acumulado por los trabajadores más laboriosos.",
+                    "El proceso histórico de disociación entre el productor y los medios de producción.",
+                    "La acumulación de riquezas por parte de la Iglesia feudal.",
+                    "El crecimiento natural de la población urbana."
+                ],
+                "answer": "El proceso histórico de disociación entre el productor y los medios de producción."
+            },
+            {
+                "question": "Según Giuliani, ¿qué función cumplieron los cercamientos (enclosures) en Gran Bretaña?",
+                "options": [
+                    "Fortalecieron la comunidad campesina tradicional.",
+                    "Distribuyeron tierras equitativamente entre los siervos.",
+                    "Provocaron la expulsión de campesinos y la formación de mano de obra asalariada.",
+                    "Frenaron el desarrollo de la agricultura comercial."
+                ],
+                "answer": "Provocaron la expulsión de campesinos y la formación de mano de obra asalariada."
+            },
+            {
+                "question": "De acuerdo con Lecaro, ¿cuál es la base económica del feudalismo?",
+                "options": [
+                    "El capital financiero y la industria.",
+                    "Las relaciones de producción forjadas en torno a la tierra y la servidumbre.",
+                    "El comercio marítimo internacional.",
+                    "El trabajo esclavo en grandes plantaciones."
+                ],
+                "answer": "Las relaciones de producción forjadas en torno a la tierra y la servidumbre."
+            },
+            {
+                "question": "Según Engels, ¿cuál fue el resultado social más importante de la Revolución Industrial?",
+                "options": [
+                    "La creación del proletariado inglés.",
+                    "El enriquecimiento de los pequeños artesanos.",
+                    "La mejora inmediata de la salud pública.",
+                    "La desaparición de las grandes ciudades."
+                ],
+                "answer": "La creación del proletariado inglés."
+            },
+            {
+                "question": "¿Qué papel jugó la legislación sanguinaria descrita por Marx?",
+                "options": [
+                    "Protegió a los campesinos de la expropiación.",
+                    "Castigó el vagabundaje para forzar a los expropiados a la disciplina del trabajo asalariado.",
+                    "Garantizó salarios justos para los obreros.",
+                    "Promovió la educación gratuita para los hijos de los obreros."
+                ],
+                "answer": "Castigó el vagabundaje para forzar a los expropiados a la disciplina del trabajo asalariado."
+            },
+            {
+                "question": "Según Bianchi, ¿qué caracterizó la expansión del siglo XVI?",
+                "options": [
+                    "La paz absoluta en Europa.",
+                    "La formación de imperios coloniales y el comercio mundial.",
+                    "El fin definitivo del capitalismo.",
+                    "El aislamiento económico de Inglaterra."
+                ],
+                "answer": "La formación de imperios coloniales y el comercio mundial."
+            },
+            {
+                "question": "Para Marx, ¿cómo impactó la reforma protestante en la acumulación originaria?",
+                "options": [
+                    "Detuvo el proceso de expropiación.",
+                    "Impulsó la depredación de los bienes de la Iglesia y la expulsión de arrendatarios.",
+                    "Repartió las tierras de la Iglesia entre los pobres.",
+                    "Fortaleció el poder de los monasterios."
+                ],
+                "answer": "Impulsó la depredación de los bienes de la Iglesia y la expulsión de arrendatarios."
+            },
+            {
+                "question": "Según Giuliani, ¿qué diferencia a la fábrica de la manufactura/artesanado?",
+                "options": [
+                    "En la fábrica el obrero sirve a la máquina; en el artesanado se sirve del instrumento.",
+                    "La fábrica utiliza menos trabajadores.",
+                    "La manufactura utiliza energía de vapor.",
+                    "No hay diferencias sustanciales."
+                ],
+                "answer": "En la fábrica el obrero sirve a la máquina; en el artesanado se sirve del instrumento."
+            },
+            {
+                "question": "¿Qué fenómeno describe Engels sobre las grandes ciudades industriales?",
+                "options": [
+                    "Planificación urbana excelente y aire puro.",
+                    "Segregación de barrios obreros insalubres y hacinamiento.",
+                    "Igualdad de condiciones de vida para todas las clases.",
+                    "Ausencia de enfermedades y epidemias."
+                ],
+                "answer": "Segregación de barrios obreros insalubres y hacinamiento."
+            },
+            {
+                "question": "¿Qué rol asigna Marx al sistema colonial en la génesis del capital industrial?",
+                "options": [
+                    "Fue irrelevante para la acumulación.",
+                    "Sirvió como factor fundamental de la acumulación originaria a través del saqueo y el comercio.",
+                    "Solo benefició a los pueblos colonizados.",
+                    "Frenó el desarrollo del comercio mundial."
+                ],
+                "answer": "Sirvió como factor fundamental de la acumulación originaria a través del saqueo y el comercio."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Acumulación Originaria",
+                "back": "Proceso histórico de disociación entre el productor y los medios de producción. No es el resultado del modo de producción capitalista, sino su punto de partida. [Marx: 755, 758]"
+            },
+            {
+                "front": "Plusvalía",
+                "back": "Valor adicional creado por el obrero durante el tiempo de trabajo excedente, que es apropiado por el capitalista y constituye la base de su ganancia y acumulación. [Grupo Taller: 970-973]"
+            },
+            {
+                "front": "Proletariado",
+                "back": "Clase de trabajadores libres y desheredados que, al no poseer medios de producción, se ven obligados a vender su fuerza de trabajo a cambio de un salario para subsistir. [Marx: 758; Engels: 1472]"
+            },
+            {
+                "front": "Cercamientos (Enclosures)",
+                "back": "Proceso de transformación de tierras comunales y de labranza en propiedad privada y pastos, expulsando a los campesinos y creando una masa de proletarios. [Giuliani: 1288; Marx: 764]"
+            },
+            {
+                "front": "Manufactura vs. Gran Industria",
+                "back": "La manufactura concentra obreros en talleres manuales donde el obrero usa la herramienta. La Gran Industria (fábrica) mecaniza la producción, y el obrero pasa a servir a la máquina. [Giuliani: 1329; Marx: 836]"
+            },
+            {
+                "front": "Ludismo",
+                "back": "Movimiento de resistencia obrera caracterizado por la destrucción de máquinas, consideradas 'ladronas de trabajo' y responsables del desempleo y la baja de salarios. [Giuliani: 1343; Engels: 1515]"
+            },
+            {
+                "front": "Feudalismo",
+                "back": "Modo de producción dominado por la tierra y la servidumbre, donde una aristocracia guerrera extrae el excedente de los campesinos mediante coacción extraeconómica. [Lecaro: 2]"
+            },
+            {
+                "front": "Legislación sanguinaria",
+                "back": "Leyes dictadas en Europa (siglos XV-XVI) contra los expropiados convertidos en vagabundos, castigándolos con azotes, marcas y ejecución para forzarlos a la disciplina del trabajo asalariado. [Marx: 793]"
+            },
+            {
+                "front": "Sistema Colonial",
+                "back": "Factor de la acumulación originaria basado en la conquista, esclavitud y monopolio comercial, que permitió concentrar capitales en Europa mediante el saqueo de otras regiones. [Marx: 819-820]"
+            },
+            {
+                "front": "Revolución Industrial",
+                "back": "Transformación radical del proceso productivo iniciada en Inglaterra (fines s. XVIII) con la introducción de la máquina de vapor y la fábrica, consolidando el capitalismo. [Giuliani: 1327; Engels: 1446]"
+            }
+        ],
+        "faq": [
+            {
+                "question": "¿Cómo surgió la clase obrera según Marx y Engels?",
+                "answer": "La clase obrera o proletariado surgió de la disolución del feudalismo, específicamente a través de la expropiación violenta de los campesinos de sus tierras (cercamientos) y la ruina de los artesanos tradicionales. Despojados de sus medios de vida, estos individuos se vieron obligados a migrar a las ciudades industriales y vender su fuerza de trabajo a los capitalistas para sobrevivir. [Marx: 758, 763; Engels: 1472]"
+            },
+            {
+                "question": "¿Qué papel jugó la violencia en la acumulación originaria?",
+                "answer": "La violencia jugó un papel central y directo. Marx afirma que la acumulación originaria no fue idílica, sino que la violencia fue la 'comadrona' de la nueva sociedad. Se manifestó en el robo de tierras comunales, la depredación de bienes de la Iglesia, la expulsión de campesinos, la legislación terrorista contra los vagabundos y el saqueo colonial. El capital vino al mundo 'chorreando sangre y lodo'. [Marx: 756, 820, 839]"
+            },
+            {
+                "question": "¿Qué son los 'cercamientos' y cómo afectaron a los campesinos?",
+                "answer": "Los cercamientos fueron el proceso de privatización de las tierras comunales y de labranza abierta en Inglaterra. Los terratenientes expulsaron a los campesinos para dedicar las tierras a la cría de ovejas (para lana) o agricultura intensiva. Esto transformó a los campesinos autosuficientes en una masa de desposeídos que formaron el ejército de trabajo industrial. [Giuliani: 1288-1290; Marx: 765]"
+            },
+            {
+                "question": "¿Cómo cambiaron las condiciones de vida con la Revolución Industrial según Engels?",
+                "answer": "Las condiciones de vida se deterioraron drásticamente para la mayoría. Engels describe el hacinamiento en barrios insalubres sin ventilación ni drenaje, la difusión de enfermedades como el tifus y la tuberculosis, la vestimenta de harapos y una alimentación deficiente y adulterada. La seguridad del antiguo sistema paternalista fue reemplazada por la inseguridad total y la explotación brutal en las fábricas. [Engels: 1488, 1505]"
+            },
+            {
+                "question": "¿Qué diferencia existe entre el capital comercial y el capital industrial?",
+                "answer": "El capital comercial (mercantil) obtenía ganancias del intercambio desigual y el monopolio, actuando como intermediario sin controlar necesariamente la producción. El capital industrial, en cambio, toma el control directo del proceso productivo, organizando la fábrica y explotando el trabajo asalariado para generar plusvalía, revolucionando constantemente los medios de producción. [Giuliani: 1303, 1306; Marx: 816]"
+            }
+        ]
+    }
+}

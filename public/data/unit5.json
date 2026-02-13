@@ -1,0 +1,181 @@
+{
+    "unit5": {
+        "summary": "La Unidad 5 abarca desde la consolidación del mundo bipolar tras la Segunda Guerra Mundial hasta el capitalismo del siglo XXI. Tras 1945, el orden mundial se dividió en dos bloques hegemónicos: el capitalista liderado por EE.UU. y el socialista por la URSS, caracterizados por la 'Guerra Fría', una tensión permanente sin conflicto bélico directo, acompañada de una carrera armamentista y la disputa por zonas de influencia [1-4]. En Occidente, se consolidó el 'Estado de Bienestar' basado en políticas keynesianas que buscaban el pleno empleo, la seguridad social y altos niveles de consumo para evitar conflictos sociales [5-7].\n\nHacia la década de 1970, el modelo de posguerra entró en crisis. Esto dio paso a una 'contraofensiva del capital' en los años 80 y 90, marcada por el ascenso del neoconservadurismo (Reagan y Thatcher) y la implementación de políticas neoliberales: desregulación, privatizaciones, flexibilización laboral y financiarización de la economía [8, 9]. Paralelamente, el bloque soviético sufrió un proceso de estancamiento y descomposición interna, acelerado por las reformas fallidas de Gorbachov (Perestroika y Glasnost), culminando con la caída del Muro de Berlín (1989) y la disolución de la URSS (1991), dejando a EE.UU. como única superpotencia momentánea [10-24].\n\nEn América Latina, la reestructuración se cristalizó en el 'Consenso de Washington' (1989), un paquete de medidas que impuso disciplina fiscal, apertura comercial y privatizaciones, profundizando la dependencia y la desigualdad [25-29]. En el siglo XXI, el capitalismo se caracteriza por una profunda desigualdad global, la emergencia de China como potencia disputando la hegemonía a EE.UU., y una lógica 'neoextractivista' de acumulación por despojo, que presiona sobre los bienes naturales y territorios del Sur Global [30-32].",
+        "quiz": [
+            {
+                "question": "¿Qué caracterizó principalmente a la Guerra Fría?",
+                "options": [
+                    "Un conflicto bélico directo y total entre EE.UU. y la URSS",
+                    "Una disputa por la hegemonía mundial sin enfrentamiento militar directo entre las superpotencias, pero con carrera armamentista",
+                    "Una alianza permanente entre el bloque capitalista y el socialista para el desarrollo mutuo",
+                    "El aislamiento total de ambas potencias sin interacción alguna"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Una disputa por la hegemonía mundial sin enfrentamiento militar directo entre las superpotencias, pero con carrera armamentista"
+            },
+            {
+                "question": "¿Cuál fue el objetivo principal del Estado de Bienestar en la posguerra?",
+                "options": [
+                    "Eliminar la propiedad privada",
+                    "Reducir el gasto público al mínimo",
+                    "Mantener el pleno empleo, garantizar servicios sociales y asegurar un nivel de vida mínimo como derecho",
+                    "Fomentar exclusivamente la especulación financiera"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Mantener el pleno empleo, garantizar servicios sociales y asegurar un nivel de vida mínimo como derecho"
+            },
+            {
+                "question": "¿Qué líderes impulsaron la 'reacción conservadora' o neoliberal en los años 80?",
+                "options": [
+                    "Roosevelt y Churchill",
+                    "Reagan y Thatcher",
+                    "Gorbachov y Mitterrand",
+                    "Carter y Brezhnev"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Reagan y Thatcher"
+            },
+            {
+                "question": "¿Qué proponía el Consenso de Washington para América Latina?",
+                "options": [
+                    "Nacionalización de la banca y reforma agraria",
+                    "Proteccionismo industrial y aumento del gasto público",
+                    "Disciplina fiscal, privatizaciones, desregulación y apertura comercial",
+                    "Creación de un mercado común latinoamericano cerrado al mundo"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Disciplina fiscal, privatizaciones, desregulación y apertura comercial"
+            },
+            {
+                "question": "¿Qué proceso marcó el fin del mundo bipolar?",
+                "options": [
+                    "La crisis de los misiles en Cuba",
+                    "La caída del Muro de Berlín y la disolución de la URSS",
+                    "La Guerra de Vietnam",
+                    "La creación de la ONU"
+                ],
+                "correctAnswer": 1,
+                "explanation": "La caída del Muro de Berlín y la disolución de la URSS"
+            },
+            {
+                "question": "¿En qué consiste la 'acumulación por despojo' en el capitalismo del siglo XXI según Svampa?",
+                "options": [
+                    "En el ahorro voluntario de los trabajadores",
+                    "En la mercantilización y privatización de bienes comunes, tierra y recursos naturales, desplazando poblaciones",
+                    "En el aumento de salarios para fomentar el consumo",
+                    "En la industrialización por sustitución de importaciones"
+                ],
+                "correctAnswer": 1,
+                "explanation": "En la mercantilización y privatización de bienes comunes, tierra y recursos naturales, desplazando poblaciones"
+            },
+            {
+                "question": "¿Qué implicó la 'Perestroika' impulsada por Gorbachov?",
+                "options": [
+                    "Un endurecimiento del control estatal total",
+                    "Una reestructuración económica que buscaba dinamizar el sistema introduciendo elementos de mercado",
+                    "Una declaración de guerra a Occidente",
+                    "La prohibición de la crítica pública"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Una reestructuración económica que buscaba dinamizar el sistema introduciendo elementos de mercado"
+            },
+            {
+                "question": "¿Cómo se describe la globalización neoliberal en los textos?",
+                "options": [
+                    "Como un proceso natural de homogeneización cultural pacífica",
+                    "Como una etapa de expansión del mercado y flujos financieros que profundiza desigualdades y debilita soberanías",
+                    "Como la solución definitiva a la pobreza mundial",
+                    "Como el fin de las fronteras para el libre tránsito de personas"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Como una etapa de expansión del mercado y flujos financieros que profundiza desigualdades y debilita soberanías"
+            },
+            {
+                "question": "¿Qué rol juega China en el escenario geopolítico del siglo XXI según los textos?",
+                "options": [
+                    "Se mantiene como una economía agraria cerrada",
+                    "Emerge como potencia mundial disputando la hegemonía a EE.UU., con rasgos imperialistas y alta demanda de commodities",
+                    "Actúa exclusivamente como socio benefactor sin intereses propios",
+                    "Ha abandonado todo desarrollo industrial"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Emerge como potencia mundial disputando la hegemonía a EE.UU., con rasgos imperialistas y alta demanda de commodities"
+            },
+            {
+                "question": "¿Qué consecuencia tuvo la aplicación de políticas neoliberales en Argentina durante los 90?",
+                "options": [
+                    "Pleno empleo y desarrollo industrial",
+                    "Desendeudamiento externo",
+                    "Concentración económica, extranjerización, desindustrialización y aumento de la pobreza",
+                    "Fortalecimiento de las empresas estatales"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Concentración económica, extranjerización, desindustrialización y aumento de la pobreza"
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Guerra Fría",
+                "back": "Enfrentamiento geopolítico e ideológico (1947-1991) entre el bloque capitalista (EE.UU.) y el socialista (URSS) sin conflicto militar directo entre ellos, caracterizado por la carrera armamentista y la disputa por zonas de influencia [1, 2, 33-39]."
+            },
+            {
+                "front": "Estado de Bienestar",
+                "back": "Forma de Estado consolidada en Occidente tras 1945, basada en la intervención económica (keynesianismo) para garantizar el pleno empleo, la seguridad social y servicios públicos (salud, educación) como derechos ciudadanos [5-7]."
+            },
+            {
+                "front": "Neoliberalismo",
+                "back": "Corriente política y económica que resurge en los años 70/80, promoviendo la reducción del Estado, la desregulación de los mercados, la privatización de empresas públicas y el individualismo, criticando el Estado de Bienestar [8, 40-42]."
+            },
+            {
+                "front": "Globalización",
+                "back": "Proceso de expansión del sistema de mercado a escala planetaria, caracterizado por la instantaneidad de los flujos financieros, el dominio de empresas transnacionales y la tendencia a la homogeneización cultural y de consumo [43, 44]."
+            },
+            {
+                "front": "Deuda Externa",
+                "back": "Mecanismo financiero de dependencia profundizado en el neoliberalismo; en Argentina y América Latina actuó como una herramienta de sujeción y transferencia de recursos hacia los centros financieros internacionales [45]."
+            },
+            {
+                "front": "Consenso de Washington",
+                "back": "Conjunto de políticas económicas recomendadas en 1989 para América Latina (ajuste fiscal, privatizaciones, apertura comercial) que buscaban alinear las economías de la región con los intereses del capital global [25, 26]."
+            },
+            {
+                "front": "Perestroika",
+                "back": "Programa de 'reestructuración' económica impulsado por M. Gorbachov en la URSS (1985) para combatir el estancamiento, introduciendo mecanismos de mercado y descentralización, que derivó en la crisis final del sistema soviético [12, 22]."
+            },
+            {
+                "front": "Neoextractivismo",
+                "back": "Modelo de desarrollo en el siglo XXI basado en la sobreexplotación de bienes naturales (agronegocios, minería) para exportación a gran escala, generando despojo territorial, daños ambientales y reprimarización económica [30, 46-48]."
+            },
+            {
+                "front": "Mundo Bipolar",
+                "back": "Orden internacional vigente entre 1945 y 1991, donde el poder global se dividía entre dos superpotencias hegemónicas (EE.UU. y la URSS) que lideraban bloques ideológicos, económicos y militares opuestos [1, 3]."
+            },
+            {
+                "front": "Acumulación por despojo",
+                "back": "Concepto (retomado de Harvey) que describe la acumulación de capital mediante la mercantilización y privatización de bienes comunes (tierra, agua), expulsando poblaciones y eliminando formas de producción no capitalistas [49, 50]."
+            }
+        ],
+        "faq": [
+            {
+                "question": "¿Qué fue el Estado de Bienestar?",
+                "answer": "Fue un modelo de organización social y política desarrollado en las democracias capitalistas occidentales tras la Segunda Guerra Mundial (aprox. 1945-1975). Se basó en la intervención estatal en la economía (siguiendo a Keynes) para asegurar el pleno empleo, y en la provisión pública de servicios universales como salud, educación y seguridad social, entendiendo el bienestar como un derecho ciudadano y no como caridad, buscando así evitar conflictos sociales y el avance del comunismo [5-7]."
+            },
+            {
+                "question": "¿En qué consiste el modelo neoliberal?",
+                "answer": "Es un modelo económico y político impulsado desde fines de los 70 (con Reagan y Thatcher) como respuesta a la crisis del Estado de Bienestar. Propone el retorno a los valores del libre mercado y la iniciativa privada, reduciendo la intervención estatal. Sus pilares son la desregulación de la economía, la privatización de empresas y servicios estatales, la flexibilización laboral, la reducción del gasto público social y la apertura comercial, favoreciendo al capital financiero y concentrado [8, 40-42, 51]."
+            },
+            {
+                "question": "¿Qué fue el Consenso de Washington?",
+                "answer": "Fue un listado de políticas económicas formulado en 1989 por organismos financieros internacionales con sede en Washington, destinado a ser aplicado en América Latina. Sus recetas incluían disciplina fiscal (ajuste), reorientación del gasto público, reforma impositiva, liberalización financiera y comercial, tipo de cambio competitivo, apertura a la inversión extranjera directa, privatizaciones de empresas estatales y desregulación de mercados. En Argentina, se aplicó rigurosamente durante los años 90 [25-27]."
+            },
+            {
+                "question": "¿Por qué cayó la Unión Soviética?",
+                "answer": "La caída se debió a un proceso de estancamiento económico y crisis política interna. Las reformas intentadas por Gorbachov (Perestroika y Glasnost) para modernizar el sistema y dar transparencia terminaron desestabilizando el control político del Partido Comunista y desatando fuerzas nacionalistas en las repúblicas. Esto, sumado a la incapacidad de competir económicamente con Occidente y al agotamiento del modelo burocrático, llevó a la disolución de la URSS en 1991 y al fin del mundo bipolar [10-24]."
+            },
+            {
+                "question": "¿Qué es el neoextractivismo en el siglo XXI?",
+                "answer": "Es un modelo de acumulación imperante en América Latina en el siglo XXI, caracterizado por la exportación a gran escala de bienes primarios (soja, minerales, hidrocarburos). Se diferencia del extractivismo clásico por su mayor envergadura, intensidad y la participación del Estado en la captación de renta. Implica una lógica de 'acumulación por despojo', desplazando comunidades, apropiándose de recursos y generando graves daños ambientales (depredación), todo ello en el marco de la demanda de potencias emergentes como China [30, 46-49]."
+            }
+        ]
+    }
+}

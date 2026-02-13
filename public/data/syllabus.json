@@ -1,0 +1,100 @@
+{
+    "unidades": [
+        {
+            "numero": 1,
+            "titulo": "Introducción al Estudio Histórico Social del Mundo Contemporáneo",
+            "objetivos": [
+                "Brindar grandes líneas de análisis y comprensión del proceso histórico social global.",
+                "Proporcionar elementos teóricos para lograr una comprensión articulada e integral de las dimensiones económica, social y política.",
+                "Estimular la comprensión de la dinámica social, identificando a los sujetos históricos."
+            ],
+            "temas": [
+                "El complejo mundo contemporáneo: punto de llegada de procesos sociales, punto de partida del interés histórico.",
+                "Análisis retrospectivo de larga duración para entender el presente.",
+                "Punto de vista y posicionamiento para abordar las ciencias sociales.",
+                "Nuestro objeto de estudio: Realidad social como totalidad compleja en el espacio y cambiante en el tiempo.",
+                "Estructura y coyuntura.",
+                "Periodización histórica según Modos de Producción: Esclavismo, Feudalismo, Capitalismo, Socialismo y Comunismo.",
+                "Formaciones Sociales."
+            ]
+        },
+        {
+            "numero": 2,
+            "titulo": "Transición del feudalismo al Capitalismo. De la Conquista América a la Revolución Industrial (Siglos XV a XVIII)",
+            "objetivos": [
+                "Analizar la transición de la sociedad feudal a la sociedad burguesa.",
+                "Comprender la acumulación originaria y la conformación del mercado mundial.",
+                "Estudiar el feudalismo colonial tardío en América Latina y la Revolución Industrial en Gran Bretaña."
+            ],
+            "temas": [
+                "La sociedad feudal y el lento crecimiento de la burguesía.",
+                "Los grandes descubrimientos, viajes de circunnavegación y la conformación del mercado mundial.",
+                "La acumulación originaria.",
+                "Transición de la sociedad feudal a la sociedad burguesa.",
+                "Feudalismo colonial tardío en América Latina: Invasión, conquista y colonización.",
+                "Servidumbre, trabajos forzados y esclavitud.",
+                "Crisis Feudal. Dos Españas y Dos Américas. La supervivencia del feudalismo español.",
+                "La revolución industrial en Gran Bretaña: transformaciones agrícolas, crecimiento demográfico e innovaciones técnicas.",
+                "Nuevas relaciones de producción, modificación de la estructura social y condiciones de vida de la clase obrera."
+            ]
+        },
+        {
+            "numero": 3,
+            "titulo": "Revoluciones Burguesas en Europa, Guerras de Independencia en América y el surgimiento del proletariado (siglos XVIII Y XIX)",
+            "objetivos": [
+                "Analizar las Revoluciones Burguesas y su impacto en la estructura económico-social.",
+                "Comprender las Revoluciones de independencia en América y sus causas estructurales.",
+                "Estudiar la organización y rebeliones de la nueva clase social: el proletariado."
+            ],
+            "temas": [
+                "Revoluciones Burguesas. La Revolución Francesa: estructura previa, crisis de coyuntura, etapas, Napoleón y la Restauración.",
+                "Nuevas revoluciones burguesas: 1830 y 1848.",
+                "Revoluciones de independencia en América: la Revolución de Mayo.",
+                "Condiciones internacionales y causas estructurales internas de la independencia.",
+                "La guerra de independencia y el papel de los pueblos en la lucha contra los opresores.",
+                "Organización y rebeliones de una nueva clase social: el proletariado.",
+                "Ludismo, Sindicalismo, movimiento Cartista, Anarquismo y Socialismo.",
+                "La Asociación Internacional de los Trabajadores.",
+                "Ensayo y derrota del primer gobierno obrero: la Comuna de París (1871)."
+            ]
+        },
+        {
+            "numero": 4,
+            "titulo": "La Época del Imperialismo: Guerras, Crisis y Revoluciones (1871-1945)",
+            "objetivos": [
+                "Comprender el imperialismo como nueva fase del desarrollo capitalista.",
+                "Analizar la Primera Guerra Mundial y la Revolución Socialista en Rusia.",
+                "Estudiar la crisis del 29, el surgimiento del Nazi-fascismo y la Segunda Guerra Mundial."
+            ],
+            "temas": [
+                "El imperialismo a comienzos del siglo XX: expansión colonialista, concentración monopolista y capital financiero.",
+                "Dependencia de América Latina: estructura primario exportadora.",
+                "Primer Guerra mundial: alianzas, rivalidades, etapas y consecuencias.",
+                "Revolución Socialista en Rusia: estructura del Imperio Ruso, revoluciones de 1917 y nuevo orden socialista.",
+                "Crisis del 29: respuestas a la crisis y América Latina ante la Gran Depresión.",
+                "Surgimiento del Nazi fascismo.",
+                "La Segunda Guerra Mundial: lucha por un nuevo reparto mundial, triunfo aliado y hegemonía nuclear."
+            ]
+        },
+        {
+            "numero": 5,
+            "titulo": "Del mundo bipolar a la actualidad (1946-hoy)",
+            "objetivos": [
+                "Analizar el mundo bipolar de posguerra y la Guerra Fría.",
+                "Comprender los procesos de descolonización y el auge revolucionario de los 60 y 70.",
+                "Estudiar la contraofensiva del capital, el neoliberalismo y el capitalismo del siglo XXI."
+            ],
+            "temas": [
+                "El mundo bipolar de posguerra: Guerra Fría entre capitalismo y socialismo.",
+                "Hegemonía de EE. UU. y la URSS.",
+                "Procesos descolonizadores y revoluciones nacionales en el Tercer Mundo.",
+                "Del auge revolucionario en los 60' y 70' a la contraofensiva del capital en los 80' y 90'.",
+                "La Revolución Cubana. Resistencias y rebeliones en EEUU y Europa.",
+                "Auge Neoconservador, crisis de la deuda y Consenso de Washington en América Latina.",
+                "El capitalismo del siglo XXI: sistema profundamente desigual.",
+                "Nueva fase imperialista, lógica extractivista y acumulación por despojo.",
+                "Disputas interimperialistas: declive de EEUU y emergencia de China como potencia mundial."
+            ]
+        }
+    ]
+}
