@@ -1,180 +1,167 @@
 {
     "unit1": {
-        "summary": "¡Hola! Bienvenidos a este recorrido por la Unidad 1: 'Introducción al Estudio Histórico Social del Mundo Contemporáneo'. Hoy vamos a desentrañar cómo mirar la historia no como una lista de fechas muertas, sino como una herramienta vital para entender nuestro presente. \n\nPrimero, definamos nuestro objeto de estudio. Según los textos de Cortese y Bauzá, la realidad social no es un caos de eventos aislados, sino una **Totalidad Social**. Imaginemos la sociedad como un gran organismo donde lo económico, lo político y lo cultural están entrelazados. No podemos entender la pobreza (económica) sin ver las leyes (política) o las creencias (cultura) que la sostienen [1]. Esta totalidad es compleja y cambia en el tiempo.\n\nAquí entran dos conceptos clave para medir ese tiempo: **Estructura y Coyuntura**. Piensa en la 'Estructura' como los cimientos de un edificio o las corrientes profundas del mar; son los elementos estables de larga duración, como el sistema económico o la demografía [2]. Por otro lado, la 'Coyuntura' es el momento específico, la 'foto' del instante donde las tensiones estallan y se producen cambios, como una revolución o una crisis política [3]. La historia analiza cómo estas estructuras profundas se rompen en las coyunturas.\n\nPara analizar la base de estas sociedades, utilizamos el concepto de **Modo de Producción**, desarrollado por Marx. No es solo 'tecnología'; es la forma en que los humanos se organizan para satisfacer sus necesidades. Se compone de las 'Fuerzas Productivas' (herramientas, trabajo humano) y las 'Relaciones de Producción' (quién es dueño de qué y quién trabaja para quién) [4]. A lo largo de la historia, hemos pasado por distintos modos: desde el Comunismo Primitivo (sin clases), pasando por el Esclavismo y el Feudalismo, hasta el Capitalismo actual [5].\n\nFinalmente, recuerden lo que dicen Gresores y Spiguel: la historia científica busca la verdad no para quedarse en el pasado, sino para predecir y transformar el futuro. ¡Estudiamos historia para aprender a leer el diario de hoy!",
+        "summary": "Bienvenidos a la Unidad 1. Esta unidad sienta las bases teóricas de la materia. Aquí aprenderemos a utilizar la Historia Social como una herramienta científica para analizar la realidad. No se trata de memorizar batallas, sino de entender la 'Totalidad Social': cómo lo económico, lo político y lo ideológico se entrelazan. Analizaremos conceptos clave como Estructura (lo permanente), Coyuntura (el cambio) y Modo de Producción (la forma en que una sociedad organiza su supervivencia).",
+        "deep_dive": "### La Historia como Ciencia de la Totalidad\n\nContrario a la visión tradicional de la historia como una simple narración de eventos políticos y militares, la **Historia Social** se propone como una ciencia que busca explicar la **Totalidad Social**. Según autores como **Pierre Vilar**, la historia debe enseñarnos a leer el periódico; es decir, a comprender el presente como resultado de procesos pasados.\n\n#### Estructura y Coyuntura: Las dos temporalidades\nPara analizar esta totalidad, Braudel y otros historiadores distinguen dos niveles de tiempo:\n1. **La Estructura (Larga Duración)**: Son los elementos estables que cambian muy lentamente, como la geografía, los sistemas económicos (ej. el feudalismo) o las mentalidades profundas. Funcionan como los 'cimientos' o la 'cárcel' que limita lo posible.\n2. **La Coyuntura (Tiempo Medio/Corto)**: Es el momento específico, la 'foto' del conflicto. Es el tiempo de las crisis, las revoluciones y los cambios abruptos donde las estructuras pueden romperse o transformarse.\n\n#### El Modo de Producción: La Herramienta de Análisis\nPara entender la base material de una sociedad, Marx desarrolló el concepto de **Modo de Producción**. Este no es solo 'tecnología', sino una articulación entre:\n*   **Fuerzas Productivas**: Los medios (tierra, máquinas) y la fuerza de trabajo humana.\n*   **Relaciones Sociales de Producción**: Quién es dueño de los medios y quién trabaja. Esto define las clases sociales (ej. Amo/Esclavo, Señor/Siervo, Capitalista/Obrero).\n\nLa historia humana se puede leer como la sucesión de distintos modos de producción (Comunismo Primitivo, Esclavista, Feudal, Capitalista) impulsada por la **Lucha de Clases**.",
+        "key_concepts": [
+            {
+                "term": "Totalidad Social",
+                "definition": "Concepto metodológico que concibe a la realidad social como un todo interconectado donde las dimensiones económica, política e ideológica no pueden analizarse de forma aislada."
+            },
+            {
+                "term": "Estructura",
+                "definition": "Elementos fundamentales de una sociedad (economía, demografía, psicología colectiva) que permanecen estables durante largos períodos (larga duración) y condicionan el desarrollo histórico."
+            },
+            {
+                "term": "Coyuntura",
+                "definition": "Conjunto de condiciones articuladas que caracterizan un momento histórico breve o medio, donde se manifiestan las crisis y las posibilidades de cambio estructural."
+            },
+            {
+                "term": "Modo de Producción",
+                "definition": "Modelo teórico abstracto que describe la forma en que una sociedad organiza su producción material, combinando un determinado nivel de Fuerzas Productivas con específicas Relaciones Sociales de Producción."
+            },
+            {
+                "term": "Formación Económico-Social",
+                "definition": "La sociedad histórica concreta (ej. Francia en 1789) donde coexisten un Modo de Producción dominante con supervivencias de modos anteriores y gérmenes de futuros."
+            },
+            {
+                "term": "Plusvalía",
+                "definition": "Valor excedente generado por el trabajador por encima del valor de su fuerza de trabajo, que es apropiado gratuitamente por el capitalista. Es la base de la acumulación en el capitalismo."
+            }
+        ],
+        "timeline": [
+            {
+                "year": "Palolítico/Neolítico",
+                "event": "Comunismo Primitivo",
+                "description": "Sociedades sin clases sociales ni propiedad privada. Cooperación simple."
+            },
+            {
+                "year": "Edad Antigua",
+                "event": "Modo de Producción Esclavista",
+                "description": "Grecia y Roma. La relación fundamental es Amo-Esclavo. El esclavo es una 'herramienta que habla'."
+            },
+            {
+                "year": "Edad Media (s. V - XV)",
+                "event": "Modo de Producción Feudal",
+                "description": "Señores y Siervos. La coacción es extra-económica (militar/religiosa). La tierra es la base de la riqueza."
+            },
+            {
+                "year": "s. XVI - XVIII",
+                "event": "Transición al Capitalismo",
+                "description": "Acumulación Originaria. Despojo del campesinado. Surgimiento del trabajo asalariado y el mercado mundial."
+            },
+            {
+                "year": "s. XIX - Presente",
+                "event": "Modo de Producción Capitalista",
+                "description": "Burguesía y Proletariado. Trabajo asalariado libre. Producción generalizada de mercancías y lógica de ganancia."
+            }
+        ],
         "quiz": [
             {
-                "question": "Según Pierre Vilar, citado por Cortese, ¿cuál es una de las funciones principales de la historia?",
+                "question": "Según Pierre Vilar, ¿cuál es el objetivo práctico de la historia?",
                 "options": [
-                    "Memorizar fechas patrias.",
-                    "Enseñarnos a leer el periódico.",
-                    "Justificar el orden establecido.",
-                    "Adivinar el futuro mágicamente."
+                    "Recordar fechas patrias",
+                    "Aprender a leer el periódico y entender el presente",
+                    "Juzgar a los héroes del pasado",
+                    "Predecir el futuro con exactitud"
                 ],
                 "correctAnswer": 1,
-                "explanation": "Pierre Vilar afirma que 'La historia debe enseñarnos, en primer lugar, a leer un periódico', refiriéndose a la capacidad de analizar críticamente el presente [6]."
+                "explanation": "Vilar afirma que la historia debe servir para comprender la dinámica de la sociedad actual, 'leyendo el periódico' con una mirada crítica basada en el análisis de los procesos pasados."
             },
             {
-                "question": "¿Qué se entiende por 'Coyuntura' en el análisis histórico?",
+                "question": "¿Qué diferencia a la 'Estructura' de la 'Coyuntura'?",
                 "options": [
-                    "Un período de estabilidad eterna.",
-                    "El conjunto de condiciones que caracterizan un momento particular de cambio o crisis.",
-                    "La estructura económica de larga duración.",
-                    "La biografía de los grandes hombres."
+                    "La Estructura es política y la Coyuntura económica",
+                    "La Estructura es de larga duración y estable; la Coyuntura es el momento breve de cambio",
+                    "No hay diferencia, son sinónimos",
+                    "La Coyuntura dura siglos y la Estructura días"
                 ],
                 "correctAnswer": 1,
-                "explanation": "La coyuntura se define como el 'conjunto de condiciones articuladas entre sí que caracterizan un momento en el movimiento global de la materia histórica' [3]."
+                "explanation": "La Estructura (Braudel) refiere a los elementos estables que cambian muy lentamente (larga duración), mientras que la Coyuntura es el tiempo medio o corto donde ocurren los eventos y crisis."
             },
             {
-                "question": "¿Qué componentes conforman un 'Modo de Producción'?",
+                "question": "¿Cuáles son los dos elementos que componen un Modo de Producción?",
                 "options": [
-                    "Solo la tecnología y las máquinas.",
-                    "Las leyes y el Estado.",
-                    "Las Fuerzas Productivas y las Relaciones de Producción.",
-                    "El clima y la geografía."
-                ],
-                "correctAnswer": 2,
-                "explanation": "El Modo de Producción comprende tanto las fuerzas productivas (medios y capacidad humana) como las relaciones de producción (propiedad y vínculos laborales) [4]."
-            },
-            {
-                "question": "Según Gresores y Spiguel, ¿qué relación existe entre Historia y Verdad?",
-                "options": [
-                    "La historia es subjetiva y no puede alcanzar ninguna verdad.",
-                    "La verdad histórica es solo la versión de los vencedores.",
-                    "Existe una Historia Científica explicativa y predictiva que permite apoderarse del recuerdo.",
-                    "La verdad depende exclusivamente de los documentos oficiales."
-                ],
-                "correctAnswer": 2,
-                "explanation": "Los autores proponen una Historia Científica que busca la verdad a través de la explicación y la predicción, apoderándose del recuerdo en instantes de peligro [7], [8]."
-            },
-            {
-                "question": "¿Qué diferencia una 'Formación Social' de un 'Modo de Producción'?",
-                "options": [
-                    "Son sinónimos exactos.",
-                    "La Formación Social es el modelo teórico puro y el Modo de Producción es la realidad.",
-                    "El Modo de Producción es el modelo abstracto y la Formación Social es la sociedad concreta históricamente determinada.",
-                    "La Formación Social se refiere solo al comunismo."
-                ],
-                "correctAnswer": 2,
-                "explanation": "El Modo de Producción es un modelo teórico, mientras que la Formación Social es la sociedad concreta donde coexisten un modo dominante y supervivencias de otros [9]."
-            },
-            {
-                "question": "¿Cuál es la característica central de las 'Relaciones de Producción'?",
-                "options": [
-                    "Son relaciones voluntarias de amistad.",
-                    "Son vínculos independientes de la voluntad humana establecidos en el proceso productivo.",
-                    "Son decretos establecidos por el rey.",
-                    "Son relaciones puramente familiares."
+                    "Oferta y Demanda",
+                    "Fuerzas Productivas y Relaciones de Producción",
+                    "Estado y Mercado",
+                    "Riqueza y Pobreza"
                 ],
                 "correctAnswer": 1,
-                "explanation": "Marx define las relaciones de producción como 'determinadas relaciones necesarias e independientes de su voluntad' que los hombres contraen en la producción [10]."
+                "explanation": "Marx define el Modo de Producción como la articulación entre las Fuerzas Productivas (capacidad técnica y humana) y las Relaciones Sociales de Producción (vínculos de propiedad)."
             },
             {
-                "question": "En el enfoque de la cátedra, ¿quiénes son los sujetos de la historia?",
+                "question": "¿Qué define a las 'Relaciones Sociales de Producción'?",
                 "options": [
-                    "Los individuos aislados y grandes héroes.",
-                    "Los grupos humanos, clases sociales e instituciones.",
-                    "Los dioses y fuerzas sobrenaturales.",
-                    "Las ideas abstractas."
+                    "Son relaciones de amistad voluntaria",
+                    "Son vínculos independientes de la voluntad determinados por la propiedad de los medios de producción",
+                    "Son las leyes escritas en la constitución",
+                    "Son las relaciones familiares"
                 ],
                 "correctAnswer": 1,
-                "explanation": "Se rechaza el culto al individuo; los sujetos son grupos humanos (clases, etnias, naciones) o instituciones [11]."
+                "explanation": "Son relaciones necesarias e independientes de la voluntad humana (ser obrero o capitalista no es una elección libre en origen) definidas por quién posee los medios para producir."
             },
             {
-                "question": "¿Qué caracteriza al 'Comunismo Primitivo'?",
+                "question": "¿Qué es una Formación Económico-Social?",
                 "options": [
-                    "La existencia de un Estado fuerte.",
-                    "La propiedad privada de la tierra.",
-                    "La ausencia de clases sociales y propiedad privada de medios de producción.",
-                    "El trabajo asalariado."
+                    "Un libro de economía",
+                    "El modelo teórico puro del capitalismo",
+                    "Una sociedad histórica concreta (ej. Rusia 1917) con múltiples modos de producción superpuestos",
+                    "Un sindicato de trabajadores"
                 ],
                 "correctAnswer": 2,
-                "explanation": "En el comunismo primitivo no había propiedad privada ni división en clases, y la producción era colectiva [12]."
-            },
-            {
-                "question": "¿Qué implica la 'coacción extra-económica' en el Feudalismo?",
-                "options": [
-                    "Que el mercado obliga a trabajar.",
-                    "Que el señor feudal usa la fuerza, leyes o religión para obtener el excedente del campesino.",
-                    "Que los campesinos trabajan por un salario.",
-                    "Que no existe explotación."
-                ],
-                "correctAnswer": 1,
-                "explanation": "En el feudalismo, la coacción es extra-económica (fuerza militar, leyes, costumbre) a diferencia del capitalismo donde es económica [13]."
-            },
-            {
-                "question": "Según Cortese, ¿es posible la objetividad en las Ciencias Sociales?",
-                "options": [
-                    "Sí, si nos mantenemos neutrales.",
-                    "No, porque no es una ciencia.",
-                    "La objetividad se logra al explicitar el posicionamiento y buscar la verdad científica, sabiéndose partidario.",
-                    "La objetividad solo la tienen los extranjeros."
-                ],
-                "correctAnswer": 2,
-                "explanation": "Cortese argumenta que es necesario saberse partidario y explicar cómo esto orienta el análisis, buscando una verdad científica que sirva a la liberación [14]."
+                "explanation": "La Formación Social es la realidad concreta e impura, donde un modo de producción domina pero convive con restos del pasado (ej. feudalismo) y gérmenes del futuro."
             }
         ],
         "flashcards": [
             {
                 "front": "Totalidad Social",
-                "back": "Concepción de la sociedad como una unidad compleja donde lo económico, político y cultural están interrelacionados y no pueden entenderse aisladamente."
+                "back": "La sociedad como un organismo donde economía, política e ideología están interconectadas."
             },
             {
                 "front": "Estructura",
-                "back": "Elementos estables y de larga duración de una sociedad (economía, demografía) que configuran el marco en el que ocurren los hechos."
+                "back": "Elementos estables de larga duración (geografía, economía) que cambian muy lentamente."
             },
             {
                 "front": "Coyuntura",
-                "back": "Momento específico o lapso breve donde se articulan condiciones para un cambio, crisis o ruptura en la historia."
+                "back": "El momento breve del evento, la crisis o el cambio abrupto en la historia."
             },
             {
                 "front": "Modo de Producción",
-                "back": "Concepto teórico que articula las Fuerzas Productivas y las Relaciones de Producción para explicar cómo una sociedad produce su vida material."
+                "back": "Modelo teórico de cómo una sociedad produce su vida (Fuerzas Productivas + Relaciones de Producción)."
             },
             {
                 "front": "Fuerzas Productivas",
-                "back": "Medios de producción (herramientas, tierra) y fuerza de trabajo humana (técnica, experiencia) disponibles en una sociedad."
+                "back": "Herramientas, tecnología, tierra y la fuerza de trabajo humana disponible."
             },
             {
                 "front": "Relaciones de Producción",
-                "back": "Vínculos que las personas establecen en el proceso productivo, definidos principalmente por la propiedad de los medios de producción (quién es dueño y quién no)."
-            },
-            {
-                "front": "Formación Económico-Social",
-                "back": "Sociedad concreta e histórica (ej. Argentina en 1950) donde coexisten un modo de producción dominante con supervivencias de otros modos."
-            },
-            {
-                "front": "Historia Social",
-                "back": "Enfoque que estudia la sociedad global y los grupos que la constituyen (clases), tanto en sus estructuras como en sus cambios."
+                "back": "Vínculos entre personas definidos por la propiedad (quién es dueño y quién trabaja)."
             },
             {
                 "front": "Plusvalía",
-                "back": "Valor adicional creado por el trabajador por encima del valor de su fuerza de trabajo (salario), que es apropiado por el capitalista."
+                "back": "Valor extra generado por el trabajador que el capitalista se apropia gratuitamente."
+            },
+            {
+                "front": "Coacción Extra-económica",
+                "back": "Uso de la fuerza, ley o religión (típico del Feudalismo) para obligar a trabajar."
+            },
+            {
+                "front": "Coacción Económica",
+                "back": "Obligación de trabajar por un salario para sobrevivir (típico del Capitalismo)."
             },
             {
                 "front": "Historia desde abajo",
-                "back": "Perspectiva historiográfica que se enfoca en las experiencias y luchas de las clases subalternas y oprimidas, no solo en las élites."
+                "back": "Enfoque que estudia a las clases oprimidas como protagonistas de la historia."
             }
         ],
         "faq": [
             {
-                "question": "¿Qué es la estructura en historia?",
-                "answer": "Imagina el esqueleto de un edificio. La estructura en historia se refiere a esos elementos fundamentales que sostienen a la sociedad y que cambian muy lentamente, como el sistema económico (ej. capitalismo), la demografía o las tradiciones culturales profundas. Es lo que permanece estable durante largos períodos, a diferencia de los eventos diarios."
+                "question": "¿Tengo que memorizar fechas?",
+                "answer": "No. Lo importante es entender los **procesos** y la secuencia (qué pasó antes y qué fue consecuencia), no el día exacto."
             },
             {
-                "question": "¿Por qué decimos que la historia es una ciencia?",
-                "answer": "Porque no se trata solo de narrar cuentos del pasado. La historia busca explicar *por qué* ocurren las cosas utilizando métodos rigurosos, analizando pruebas y buscando las lógicas y leyes que rigen los cambios sociales. Al igual que otras ciencias, busca comprender la realidad para, idealmente, poder prever tendencias futuras."
-            },
-            {
-                "question": "¿Cuál es la diferencia entre 'Modo de Producción' y 'Formación Social'?",
-                "answer": "El 'Modo de Producción' es un modelo teórico, una herramienta abstracta (como 'Capitalismo' en estado puro) para estudiar la economía. La 'Formación Social' es la realidad concreta (como 'Argentina en 2024'), donde ese modelo puro se mezcla con características locales, historia específica y restos de sistemas anteriores. Es la diferencia entre la teoría y la práctica real."
-            },
-            {
-                "question": "¿Qué relación hay entre el pasado y el presente?",
-                "answer": "Es una relación de diálogo constante. Estudiamos el pasado porque es la única forma de entender cómo se construyó nuestro presente (por qué somos pobres, por qué tenemos estas leyes). A su vez, las preguntas que le hacemos al pasado surgen de nuestros problemas actuales. No podemos entender uno sin el otro."
-            },
-            {
-                "question": "¿Qué significa 'historia desde abajo'?",
-                "answer": "Significa dejar de mirar la historia solo a través de los ojos de reyes, generales o presidentes. Es enfocar la lente en la gente común, los trabajadores, los campesinos y las clases oprimidas, reconociendo que ellos también son protagonistas y constructores de la historia, aunque a menudo hayan sido silenciados en los libros oficiales."
+                "question": "¿Es lo mismo Marxismo que Comunismo?",
+                "answer": "No. El Marxismo es el método de análisis científico de la historia (Materialismo Histórico). El Comunismo es una propuesta política o un modo de producción teórico."
             }
         ]
     }

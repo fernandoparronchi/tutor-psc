@@ -8,7 +8,7 @@ import Quiz from "@/components/Quiz";
 import FlashcardDeck from "@/components/FlashcardDeck";
 import { cn } from "@/lib/utils";
 
-type Tab = "resumen" | "tutor" | "quiz" | "flashcards";
+type Tab = "resumen" | "tutor" | "quiz" | "flashcards" | "profundizar";
 
 export default function UnitPage() {
     const params = useParams();
@@ -75,7 +75,8 @@ export default function UnitPage() {
             {/* Navigation Tabs */}
             <nav className="flex items-center gap-1 p-1 bg-dark-card/50 backdrop-blur-md border border-dark-border rounded-xl w-full md:w-fit overflow-x-auto">
                 {[
-                    { id: "resumen", label: "Resumen & Audio", icon: "📄" },
+                    { id: "resumen", label: "Resumen", icon: "📄" },
+                    { id: "profundizar", label: "Profundizar", icon: "🧠" },
                     { id: "flashcards", label: "Flashcards", icon: "⚡" },
                     { id: "quiz", label: "Quiz", icon: "📝" },
                     { id: "tutor", label: "Tutor IA", icon: "🤖" },
@@ -137,6 +138,57 @@ export default function UnitPage() {
                 {activeTab === "quiz" && (
                     <div className="py-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
                         <Quiz questions={data.quiz} onComplete={(score) => console.log("Score:", score)} />
+                    </div>
+                )}
+
+                {activeTab === "profundizar" && (
+                    <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-500">
+                        {data.deep_dive && (
+                            <div className="glass p-8 rounded-2xl border border-white/5 prose prose-invert prose-lg max-w-none">
+                                <h3 className="text-2xl font-bold text-white mb-6 border-b border-white/10 pb-4">Profundización Académica</h3>
+                                <div className="whitespace-pre-wrap leading-relaxed text-gray-300">
+                                    {data.deep_dive}
+                                </div>
+                            </div>
+                        )}
+
+                        {data.timeline && (
+                            <div className="glass p-8 rounded-2xl border border-white/5">
+                                <h3 className="text-xl font-bold text-white mb-8 flex items-center gap-2">
+                                    <span className="text-2xl">⏳</span> Línea de Tiempo
+                                </h3>
+                                <div className="relative border-l-2 border-primary-500/30 ml-3 space-y-8">
+                                    {data.timeline.map((event, i) => (
+                                        <div key={i} className="relative pl-8">
+                                            {/* Dot */}
+                                            <div className="absolute -left-[9px] top-1.5 w-4 h-4 rounded-full bg-dark-bg border-2 border-primary-500 shadow-[0_0_10px_rgba(59,130,246,0.5)]"></div>
+
+                                            <div className="flex flex-col sm:flex-row sm:items-baseline gap-2 mb-1">
+                                                <span className="text-primary-400 font-bold font-mono text-lg">{event.year}</span>
+                                                <h4 className="text-white font-bold text-lg">{event.event}</h4>
+                                            </div>
+                                            <p className="text-gray-400 text-sm leading-relaxed max-w-2xl">{event.description}</p>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        )}
+
+                        {data.key_concepts && (
+                            <div className="glass p-8 rounded-2xl border border-white/5">
+                                <h3 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
+                                    <span className="text-2xl">🔑</span> Conceptos Clave
+                                </h3>
+                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                    {data.key_concepts.map((concept, i) => (
+                                        <div key={i} className="bg-white/5 p-4 rounded-xl border border-white/5 hover:border-primary-500/30 transition-colors">
+                                            <h4 className="text-primary-400 font-bold mb-2">{concept.term}</h4>
+                                            <p className="text-sm text-gray-300 leading-snug">{concept.definition}</p>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        )}
                     </div>
                 )}
 

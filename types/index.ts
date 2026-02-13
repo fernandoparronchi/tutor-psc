@@ -7,9 +7,23 @@ export interface Unit {
 
 export interface UnitContent {
     summary: string;
+    deep_dive?: string;
+    key_concepts?: KeyConcept[];
+    timeline?: TimelineEvent[];
     quiz: QuizQuestion[];
     flashcards: Flashcard[];
     faq: FAQ[];
+}
+
+export interface KeyConcept {
+    term: string;
+    definition: string;
+}
+
+export interface TimelineEvent {
+    year: string;
+    event: string;
+    description: string;
 }
 
 export interface QuizQuestion {
