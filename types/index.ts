@@ -3,6 +3,7 @@ export interface Unit {
     titulo: string;
     objetivos: string[];
     temas: string[];
+    duracion?: string;
 }
 
 export interface UnitContent {
