@@ -176,9 +176,19 @@ export default function SimulacroPage() {
                                 })}
                             </div>
 
-                            {isSubmitted && !isCorrect && (
-                                <div className="mt-4 p-4 rounded-xl bg-red-900/20 border border-red-500/20 text-sm text-red-200">
-                                    <strong className="block text-red-400 mb-1">Corrección:</strong>
+                            {isSubmitted && (
+                                <div className={cn(
+                                    "mt-4 p-4 rounded-xl border text-sm",
+                                    isCorrect
+                                        ? "bg-green-900/20 border-green-500/20 text-green-200"
+                                        : "bg-red-900/20 border-red-500/20 text-red-200"
+                                )}>
+                                    <strong className={cn(
+                                        "block mb-1",
+                                        isCorrect ? "text-green-400" : "text-red-400"
+                                    )}>
+                                        {isCorrect ? "¡Muy bien! Explicación:" : "Corrección:"}
+                                    </strong>
                                     {q.explanation}
                                 </div>
                             )}
