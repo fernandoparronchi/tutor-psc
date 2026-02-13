@@ -23,20 +23,25 @@ export default function SimulacroPage() {
 
                 // Fetch questions from all units
                 for (const unit of units) {
-                    const res = await fetch(`/data/unit${unit.numero}.json`);
-                    const data = await res.json();
+                    try {
+                        const res = await fetch(`/data/unit${unit.numero}.json`);
+                        if (!res.ok) throw new Error(`Failed to fetch unit ${unit.numero}`);
 
-                    // Handle potential nested structure
-                    const content = data[`unit${unit.numero}`] || data;
+                        const data = await res.json();
+                        // Handle potential nested structure
+                        const content = data[`unit${unit.numero}`] || data;
 
-                    if (content.quiz) {
-                        const unitQuestions = content.quiz.map((q: QuizQuestion) => ({
-                            ...q,
-                            unitId: unit.numero
-                        }));
-                        // Take 10 random questions from each unit for the mix (Total 50)
-                        const shuffled = unitQuestions.sort(() => 0.5 - Math.random());
-                        allQuestions = [...allQuestions, ...shuffled.slice(0, 10)]; // 10 questions per unit -> 50 total
+                        if (content.quiz) {
+                            const unitQuestions = content.quiz.map((q: QuizQuestion) => ({
+                                ...q,
+                                unitId: unit.numero
+                            }));
+                            // Shuffle and take 10 questions per unit
+                            const shuffled = unitQuestions.sort(() => 0.5 - Math.random());
+                            allQuestions = [...allQuestions, ...shuffled.slice(0, 10)];
+                        }
+                    } catch (err) {
+                        console.error(`Error loading questions for unit ${unit.numero}:`, err);
                     }
                 }
 

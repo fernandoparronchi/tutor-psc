@@ -141,7 +141,7 @@ export default function Quiz({ questions, onComplete }: QuizProps) {
                         </h4>
                         <p className="text-gray-300 leading-relaxed">
                             <span className="font-bold text-white block mb-1">Explicación:</span>
-                            {currentQuestion.explanation}
+                            {currentQuestion.explanation || "No hay explicación disponible para esta pregunta."}
                         </p>
                     </div>
                 )}
