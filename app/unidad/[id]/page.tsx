@@ -93,6 +93,11 @@ export default function UnitPage() {
                     >
                         <span>{tab.icon}</span>
                         {tab.label}
+                        {(tab.id === 'flashcards' || tab.id === 'quiz') && (
+                            <span className="bg-green-500 text-black text-[10px] font-bold px-1.5 py-0.5 rounded ml-1 animate-pulse">
+                                NEW
+                            </span>
+                        )}
                     </button>
                 ))}
             </nav>
@@ -108,14 +113,25 @@ export default function UnitPage() {
                             <span className="bg-primary-500/20 text-primary-300 px-3 py-1 rounded-full text-xs font-bold border border-primary-500/30">
                                 {unitInfo.duracion}
                             </span>
-                            <a
-                                href="https://notebooklm.google.com/notebook/4f3d8e20-9a21-445c-bb26-4f4e00720415"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-4 py-1.5 rounded-full text-xs font-bold hover:opacity-90 transition-opacity"
-                            >
-                                <span>✨ Studio AI (Mapas/Audio)</span>
-                            </a>
+                            <div className="bg-gradient-to-r from-blue-900/40 to-indigo-900/40 border border-blue-500/30 rounded-xl p-6 flex flex-col md:flex-row items-center justify-between gap-4 mb-8">
+                                <div className="flex items-center gap-4">
+                                    <div className="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center text-2xl shadow-lg shadow-blue-500/20">
+                                        🎧
+                                    </div>
+                                    <div>
+                                        <h4 className="text-lg font-bold text-white">Audio Podcast (NotebookLM)</h4>
+                                        <p className="text-sm text-blue-200">Escucha una conversación profunda generada por IA sobre esta unidad.</p>
+                                    </div>
+                                </div>
+                                <a
+                                    href="https://notebooklm.google.com/notebook/4f3d8e20-9a21-445c-bb26-4f4e00720415"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="px-6 py-2 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-lg transition-colors shadow-lg shadow-blue-600/20 whitespace-nowrap"
+                                >
+                                    Escuchar en NotebookLM ↗
+                                </a>
+                            </div>
                             <div className="whitespace-pre-wrap leading-relaxed text-gray-300">
                                 {data.summary}
                             </div>

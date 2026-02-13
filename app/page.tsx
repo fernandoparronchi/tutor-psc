@@ -78,32 +78,37 @@ export default function Dashboard() {
         <h3 className="text-2xl font-heading font-bold text-white mb-6">Plan para Hoy</h3>
         <div className="bg-dark-card border border-dark-border rounded-2xl overflow-hidden divide-y divide-dark-border">
           {tasks.map((task) => (
-            <div key={task.id} className="p-5 flex items-center justify-between hover:bg-white/5 transition-colors group">
-              <div className="flex items-center gap-4">
-                <div className={cn(
-                  "w-6 h-6 rounded border-2 flex items-center justify-center transition-colors",
-                  task.completed ? "bg-primary-500 border-primary-500" : "border-gray-600 group-hover:border-primary-400"
-                )}>
-                  {task.completed && (
-                    <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
-                    </svg>
-                  )}
+            <Link
+              key={task.id}
+              href={task.href}
+              className="block p-5 hover:bg-white/5 transition-colors group relative border-b border-dark-border last:border-0"
+            >
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-4">
+                  <div className={cn(
+                    "w-6 h-6 rounded border-2 flex items-center justify-center transition-colors",
+                    task.completed ? "bg-primary-500 border-primary-500" : "border-gray-600 group-hover:border-primary-400"
+                  )}>
+                    {task.completed && (
+                      <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                      </svg>
+                    )}
+                  </div>
+                  <div>
+                    <p className={cn("font-medium", task.completed ? "text-gray-500 line-through" : "text-gray-200")}>
+                      {task.title}
+                    </p>
+                    <p className="text-xs text-gray-500 uppercase tracking-wider">{task.type}</p>
+                  </div>
                 </div>
-                <div>
-                  <p className={cn("font-medium", task.completed ? "text-gray-500 line-through" : "text-gray-200")}>
-                    {task.title}
-                  </p>
-                  <p className="text-xs text-gray-500 uppercase tracking-wider">{task.type}</p>
-                </div>
+                <span
+                  className="px-4 py-2 text-sm bg-dark-bg border border-dark-border rounded-lg text-gray-300 group-hover:text-white group-hover:border-gray-500 transition-all"
+                >
+                  {task.completed ? "Repetir" : "Iniciar"}
+                </span>
               </div>
-              <Link
-                href={task.href}
-                className="px-4 py-2 text-sm bg-dark-bg border border-dark-border rounded-lg text-gray-300 hover:text-white hover:border-gray-500 transition-all"
-              >
-                {task.completed ? "Repetir" : "Iniciar"}
-              </Link>
-            </div>
+            </Link>
           ))}
         </div>
       </section>
