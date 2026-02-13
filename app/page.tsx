@@ -13,10 +13,10 @@ export default function Dashboard() {
   }, []);
 
   const tasks = [
-    { id: 0, title: "Estudiar Guía Final Oral (Prioridad)", completed: false, type: "oral" },
-    { id: 1, title: "Escuchar Unidad 2: Resumen", completed: true, type: "audio" },
-    { id: 2, title: "Quiz: Revolución Industrial", completed: false, type: "quiz" },
-    { id: 3, title: "Repaso Flashcards: Imperialismo", completed: false, type: "flashcards" },
+    { id: 0, title: "Estudiar Guía Final Oral (Prioridad)", completed: false, type: "oral", href: "/oral" },
+    { id: 1, title: "Escuchar Unidad 2: Resumen", completed: true, type: "audio", href: "/unidad/2" },
+    { id: 2, title: "Quiz: Revolución Industrial (Unidad 2)", completed: false, type: "quiz", href: "/unidad/2" },
+    { id: 3, title: "Repaso Flashcards: Imperialismo (Unidad 4)", completed: false, type: "flashcards", href: "/unidad/4" },
   ];
 
   return (
@@ -97,9 +97,12 @@ export default function Dashboard() {
                   <p className="text-xs text-gray-500 uppercase tracking-wider">{task.type}</p>
                 </div>
               </div>
-              <button className="px-4 py-2 text-sm bg-dark-bg border border-dark-border rounded-lg text-gray-300 hover:text-white hover:border-gray-500 transition-all">
+              <Link
+                href={task.href}
+                className="px-4 py-2 text-sm bg-dark-bg border border-dark-border rounded-lg text-gray-300 hover:text-white hover:border-gray-500 transition-all"
+              >
                 {task.completed ? "Repetir" : "Iniciar"}
-              </button>
+              </Link>
             </div>
           ))}
         </div>
