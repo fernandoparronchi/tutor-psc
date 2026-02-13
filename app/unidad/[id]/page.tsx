@@ -105,6 +105,17 @@ export default function UnitPage() {
 
                         <div className="glass p-8 rounded-2xl border border-white/5 prose prose-invert prose-lg max-w-none">
                             <h3 className="text-xl font-bold text-white mb-4">Resumen de la Unidad</h3>
+                            <span className="bg-primary-500/20 text-primary-300 px-3 py-1 rounded-full text-xs font-bold border border-primary-500/30">
+                                {unitInfo.duracion}
+                            </span>
+                            <a
+                                href="https://notebooklm.google.com/notebook/4f3d8e20-9a21-445c-bb26-4f4e00720415"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-4 py-1.5 rounded-full text-xs font-bold hover:opacity-90 transition-opacity"
+                            >
+                                <span>✨ Studio AI (Mapas/Audio)</span>
+                            </a>
                             <div className="whitespace-pre-wrap leading-relaxed text-gray-300">
                                 {data.summary}
                             </div>

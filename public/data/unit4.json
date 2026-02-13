@@ -111,6 +111,61 @@
                 ],
                 "correctAnswer": 1,
                 "explanation": "La invasión nazi a Polonia el 1 de septiembre de 1939."
+            },
+            {
+                "question": "Según Lenin, ¿qué cambio cualitativo marca el paso al imperialismo?",
+                "options": [
+                    "El fin del comercio internacional.",
+                    "La libre competencia entre pequeños productores.",
+                    "La sustitución de la libre competencia por los monopolios y el dominio del capital financiero.",
+                    "La reducción de la intervención estatal."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Lenin define el imperialismo por la concentración de la producción en monopolios y la fusión del capital bancario e industrial (financiero), negando la antigua libre competencia."
+            },
+            {
+                "question": "¿Qué factor transformó la Primera Guerra Mundial en una guerra de desgaste (trincheras)?",
+                "options": [
+                    "La rápida victoria rusa.",
+                    "El fracaso de la guerra de movimientos inicial y la estabilización del frente occidental.",
+                    "La falta de armas en ambos bandos.",
+                    "La negativa de EE.UU. a intervenir."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Tras detenerse el avance alemán, el frente se estabilizó y la guerra de movimientos se transformó en una sangrienta y estática guerra de posiciones y trincheras."
+            },
+            {
+                "question": "¿Cuál era la función del 'corporativismo' en el fascismo italiano?",
+                "options": [
+                    "Dar poder real a los sindicatos.",
+                    "Eliminar al Estado de la economía.",
+                    "Encuadrar a patrones y obreros en organismos estatales para suprimir la lucha de clases y controlar a los trabajadores.",
+                    "Fomentar la huelga general."
+                ],
+                "correctAnswer": 2,
+                "explanation": "El corporativismo organizaba la sociedad en corporaciones estatales verticalistas, eliminando sindicatos independientes y negando el conflicto de clases."
+            },
+            {
+                "question": "¿Cuál fue una causa estructural de la Crisis de 1929 en EE.UU.?",
+                "options": [
+                    "Exceso de regulaciones estatales.",
+                    "Escasez de productos industriales.",
+                    "Desequilibrio entre el aumento de la producción y una demanda limitada (sobreproducción) junto a la especulación financiera.",
+                    "Pérdidas de la Primera Guerra Mundial."
+                ],
+                "correctAnswer": 2,
+                "explanation": "La crisis se gestó por la sobreproducción (la capacidad de consumo no creció igual que la producción) y la especulación bursátil inflada por el crédito."
+            },
+            {
+                "question": "¿Qué motivó el ataque japonés a Pearl Harbor en 1941?",
+                "options": [
+                    "Invadir California.",
+                    "Alianza con la URSS.",
+                    "El embargo de petróleo y hierro impuesto por EE.UU. que amenazaba la expansión imperial japonesa en Asia.",
+                    "Ayudar a China."
+                ],
+                "correctAnswer": 2,
+                "explanation": "La expansión japonesa en Asia y el consiguiente embargo económico de EE.UU. llevaron a Japón a atacar para intentar neutralizar la flota estadounidense."
             }
         ],
         "flashcards": [
@@ -153,6 +208,26 @@
             {
                 "front": "Carácter de la II Guerra Mundial",
                 "back": "Según Gastiazoro, fue una combinación de tres guerras: interimperialista, defensa del socialismo (URSS) y liberación nacional [14]."
+            },
+            {
+                "front": "Rasgos del Imperialismo (Lenin)",
+                "back": "1) Monopolios, 2) Capital Financiero, 3) Exportación de Capitales, 4) Reparto económico del mundo (asociaciones), 5) Reparto territorial (potencias)."
+            },
+            {
+                "front": "Tratado de Versalles y Nazismo",
+                "back": "La humillación alemana en Versalles (pérdidas territoriales, reparaciones) alimentó el revanchismo nacionalista que Hitler explotó para ascender."
+            },
+            {
+                "front": "Ascenso de Mussolini (1922)",
+                "back": "Ante el miedo a la revolución roja, la burguesía y el Rey apoyaron a los fascistas. Mussolini fue nombrado Primer Ministro tras la 'Marcha sobre Roma'."
+            },
+            {
+                "front": "Crisis del 29 y Hitler",
+                "back": "El colapso económico y el desempleo masivo en Alemania tras el 29 radicalizaron a la sociedad, llevando a la burguesía a apoyar al nazismo como solución autoritaria."
+            },
+            {
+                "front": "Batalla de Stalingrado",
+                "back": "Punto de inflexión de la II Guerra (1942-43). La derrota del ejército nazi ante la URSS marcó el inicio del fin del Tercer Reich."
             }
         ],
         "faq": [

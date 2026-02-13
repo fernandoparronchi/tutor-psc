@@ -24,6 +24,7 @@ export interface TimelineEvent {
     year: string;
     event: string;
     description: string;
+    duracion?: string; // e.g. "2 semanas"
 }
 
 export interface QuizQuestion {

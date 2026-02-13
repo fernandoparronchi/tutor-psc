@@ -34,9 +34,9 @@ export default function SimulacroPage() {
                             ...q,
                             unitId: unit.numero
                         }));
-                        // Take 2 random questions from each unit for the mix
+                        // Take 10 random questions from each unit for the mix (Total 50)
                         const shuffled = unitQuestions.sort(() => 0.5 - Math.random());
-                        allQuestions = [...allQuestions, ...shuffled.slice(0, 3)]; // 3 questions per unit -> 15 total
+                        allQuestions = [...allQuestions, ...shuffled.slice(0, 10)]; // 10 questions per unit -> 50 total
                     }
                 }
 

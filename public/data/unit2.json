@@ -10,7 +10,8 @@
                     "La acumulación de riquezas por parte de la Iglesia feudal.",
                     "El crecimiento natural de la población urbana."
                 ],
-                "answer": "El proceso histórico de disociación entre el productor y los medios de producción."
+                "correctAnswer": 1,
+                "explanation": "Marx define la acumulación originaria como el proceso histórico de separación (disociación) violenta entre el productor (campesino) y sus medios de producción (tierra), creando así a los obreros asalariados."
             },
             {
                 "question": "Según Giuliani, ¿qué función cumplieron los cercamientos (enclosures) en Gran Bretaña?",
@@ -20,7 +21,8 @@
                     "Provocaron la expulsión de campesinos y la formación de mano de obra asalariada.",
                     "Frenaron el desarrollo de la agricultura comercial."
                 ],
-                "answer": "Provocaron la expulsión de campesinos y la formación de mano de obra asalariada."
+                "correctAnswer": 2,
+                "explanation": "Los cercamientos privatizaron las tierras comunales, expulsando a los campesinos y obligándolos a migrar a las ciudades para convertirse en proletariado industrial."
             },
             {
                 "question": "De acuerdo con Lecaro, ¿cuál es la base económica del feudalismo?",
@@ -30,7 +32,8 @@
                     "El comercio marítimo internacional.",
                     "El trabajo esclavo en grandes plantaciones."
                 ],
-                "answer": "Las relaciones de producción forjadas en torno a la tierra y la servidumbre."
+                "correctAnswer": 1,
+                "explanation": "El feudalismo se basa en la propiedad de la tierra por parte de los señores y el trabajo de los siervos, quienes entregan un excedente mediante coacción extraeconómica."
             },
             {
                 "question": "Según Engels, ¿cuál fue el resultado social más importante de la Revolución Industrial?",
@@ -40,7 +43,8 @@
                     "La mejora inmediata de la salud pública.",
                     "La desaparición de las grandes ciudades."
                 ],
-                "answer": "La creación del proletariado inglés."
+                "correctAnswer": 0,
+                "explanation": "Engels destaca que la Revolución Industrial engendró al proletariado, una nueva clase social desposeída y concentrada en grandes ciudades industriales."
             },
             {
                 "question": "¿Qué papel jugó la legislación sanguinaria descrita por Marx?",
@@ -50,7 +54,8 @@
                     "Garantizó salarios justos para los obreros.",
                     "Promovió la educación gratuita para los hijos de los obreros."
                 ],
-                "answer": "Castigó el vagabundaje para forzar a los expropiados a la disciplina del trabajo asalariado."
+                "correctAnswer": 1,
+                "explanation": "Estas leyes perseguían brutalmente a los campesinos expulsados (vagabundos) para obligarlos a aceptar las duras condiciones del trabajo asalariado naciente."
             },
             {
                 "question": "Según Bianchi, ¿qué caracterizó la expansión del siglo XVI?",
@@ -60,7 +65,8 @@
                     "El fin definitivo del capitalismo.",
                     "El aislamiento económico de Inglaterra."
                 ],
-                "answer": "La formación de imperios coloniales y el comercio mundial."
+                "correctAnswer": 1,
+                "explanation": "El siglo XVI vio la expansión ultramarina, la conquista de América y la formación de un mercado mundial que impulsó la acumulación de capital en Europa."
             },
             {
                 "question": "Para Marx, ¿cómo impactó la reforma protestante en la acumulación originaria?",
@@ -70,7 +76,8 @@
                     "Repartió las tierras de la Iglesia entre los pobres.",
                     "Fortaleció el poder de los monasterios."
                 ],
-                "answer": "Impulsó la depredación de los bienes de la Iglesia y la expulsión de arrendatarios."
+                "correctAnswer": 1,
+                "explanation": "La Reforma permitió la confiscación masiva de tierras de la Iglesia católica, que fueron vendidas a precios irrisorios o regaladas, expulsando a los antiguos campesinos arrendatarios."
             },
             {
                 "question": "Según Giuliani, ¿qué diferencia a la fábrica de la manufactura/artesanado?",
@@ -80,7 +87,8 @@
                     "La manufactura utiliza energía de vapor.",
                     "No hay diferencias sustanciales."
                 ],
-                "answer": "En la fábrica el obrero sirve a la máquina; en el artesanado se sirve del instrumento."
+                "correctAnswer": 0,
+                "explanation": "En el artesanado, el trabajador controla la herramienta. En la fábrica industrial, la máquina marca el ritmo y el obrero se convierte en un apéndice de ella."
             },
             {
                 "question": "¿Qué fenómeno describe Engels sobre las grandes ciudades industriales?",
@@ -90,7 +98,8 @@
                     "Igualdad de condiciones de vida para todas las clases.",
                     "Ausencia de enfermedades y epidemias."
                 ],
-                "answer": "Segregación de barrios obreros insalubres y hacinamiento."
+                "correctAnswer": 1,
+                "explanation": "Engels denuncia que las ciudades crecieron caóticamente, creando barrios obreros hacinados, sucios y focos de epidemias, separados de los barrios burgueses."
             },
             {
                 "question": "¿Qué rol asigna Marx al sistema colonial en la génesis del capital industrial?",
@@ -100,7 +109,63 @@
                     "Solo benefició a los pueblos colonizados.",
                     "Frenó el desarrollo del comercio mundial."
                 ],
-                "answer": "Sirvió como factor fundamental de la acumulación originaria a través del saqueo y el comercio."
+                "correctAnswer": 1,
+                "explanation": "El sistema colonial proveyó, mediante el saqueo, la esclavitud y el monopolio, los tesoros que en Europa se transformaron en capital industrial."
+            },
+            {
+                "question": "Según Lecaro, ¿cómo evolucionó la forma de extracción de renta (excedente) por parte del señor feudal a lo largo de los siglos?",
+                "options": [
+                    "De renta en dinero directamente a trabajo asalariado.",
+                    "De renta-trabajo (corvea) a renta-especie y finalmente a renta-dinero.",
+                    "Se mantuvo siempre como renta en especie hasta el fin del feudalismo.",
+                    "Comenzó con renta-dinero y volvió a la servidumbre personal."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Las formas de extracción variaron: al principio provenían de tributos anuales y trabajo personal (renta-trabajo), posteriormente se transformó en renta-especie y con el tiempo se convirtió en renta-dinero."
+            },
+            {
+                "question": "Según Marx, ¿qué papel jugó la 'legislación sangrienta' contra el vagabundaje a partir de fines del siglo XV?",
+                "options": [
+                    "Proteger a los campesinos expulsados ofreciéndoles asilo.",
+                    "Garantizar salarios altos para los nuevos obreros industriales.",
+                    "Castigar a los expropiados convertidos en vagabundos para disciplinarlos y someterlos al sistema de trabajo asalariado.",
+                    "Fomentar la emigración hacia las colonias americanas."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Marx explica que los expulsados se convertían en vagabundos y la legislación los trataba como delincuentes voluntarios, sometiéndolos mediante torturas y marcas a la disciplina del trabajo asalariado."
+            },
+            {
+                "question": "Según Bianchi, ¿cuál fue la diferencia fundamental entre el desarrollo agrícola de Europa Occidental (Inglaterra) y Europa Oriental (Polonia) en el siglo XVI?",
+                "options": [
+                    "Ambas regiones desarrollaron una agricultura puramente capitalista.",
+                    "Inglaterra desarrolló una agricultura comercial con cercamientos, mientras Europa Oriental reforzó la servidumbre (refeudalización).",
+                    "Europa Oriental abolió la servidumbre antes que Inglaterra.",
+                    "Inglaterra se dedicó al pastoreo mientras Europa Oriental abandonó la agricultura."
+                ],
+                "correctAnswer": 1,
+                "explanation": "En Inglaterra se desarrolló una agricultura comercial con relaciones capitalistas nacientes, mientras que en Polonia la expansión agrícola se basó en el reforzamiento de la servidumbre feudal."
+            },
+            {
+                "question": "Según Giuliani, ¿qué rol cumplió el ferrocarril en la segunda fase de la Revolución Industrial?",
+                "options": [
+                    "Fue la causa inicial de la industrialización textil.",
+                    "Absorbió grandes capitales, impulsó la industria pesada (hierro, carbón) y unificó mercados.",
+                    "Redujo la demanda de carbón y hierro significativamente.",
+                    "Se limitó exclusivamente al transporte de pasajeros de lujo."
+                ],
+                "correctAnswer": 1,
+                "explanation": "El ferrocarril absorbió capitales en enormes proporciones, impulsó la extensión del sistema de fábrica a la industria pesada (minería, metalurgia) y transformó el mercado y la comunicación."
+            },
+            {
+                "question": "Según Engels, ¿cuál es la actitud de la burguesía inglesa frente al proletariado?",
+                "options": [
+                    "Una relación paternalista y de cuidado mutuo.",
+                    "Una relación puramente económica de 'pago al contado', donde el obrero es solo 'manos' para ganar dinero.",
+                    "Un interés genuino por la educación moral del trabajador.",
+                    "Una búsqueda constante de igualdad política."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Engels afirma que para la burguesía el obrero no es un ser humano, sino 'trabajo' o 'manos'; el único vínculo que reconocen es el del pago al contado y el beneficio económico."
             }
         ],
         "flashcards": [
@@ -143,6 +208,26 @@
             {
                 "front": "Revolución Industrial",
                 "back": "Transformación radical del proceso productivo iniciada en Inglaterra (fines s. XVIII) con la introducción de la máquina de vapor y la fábrica, consolidando el capitalismo. [Giuliani: 1327; Engels: 1446]"
+            },
+            {
+                "front": "Relaciones de Producción (Feudalismo)",
+                "back": "Vínculo basado en la tierra donde el señor tiene la propiedad (no absoluta) y el campesino el usufructo, con extracción de excedente mediante coacción extraeconómica."
+            },
+            {
+                "front": "Acumulación Originaria (Marx)",
+                "back": "Proceso histórico de disociación entre el productor y los medios de producción. Punto de partida del capitalismo basado en la expropiación violenta (no ahorro)."
+            },
+            {
+                "front": "Cercamientos (Siglo XVI)",
+                "back": "Transformación de campos abiertos en propiedad privada en Inglaterra, concentrando la tierra y expulsando campesinos que se convirtieron en asalariados."
+            },
+            {
+                "front": "Industria del Algodón",
+                "back": "Sector dinámico de la primera fase de la Revolución Industrial (1780-1820), impulsado por el sistema de fábrica y el mercado colonial."
+            },
+            {
+                "front": "Barrios Obreros (Engels)",
+                "back": "Zonas urbanas insalubres, hacinadas y sin ventilación descritas por Engels, consecuencia de la industrialización caótica y la explotación."
             }
         ],
         "faq": [

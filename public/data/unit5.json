@@ -111,6 +111,61 @@
                 ],
                 "correctAnswer": 2,
                 "explanation": "Concentración económica, extranjerización, desindustrialización y aumento de la pobreza"
+            },
+            {
+                "question": "Según Echagüe, ¿cómo se define a la URSS tras la llegada de Jruschiov (1957)?",
+                "options": [
+                    "Como un estado socialista leninista.",
+                    "Como una potencia socialimperialista (socialista de palabra, imperialista de hecho) tras una restauración capitalista.",
+                    "Como una democracia liberal.",
+                    "Como un estado neutral."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Echagüe sostiene que en 1957 hubo una restauración capitalista burocrática, convirtiendo a la URSS en una potencia imperialista que competía por la hegemonía."
+            },
+            {
+                "question": "¿Qué prescribió el 'Consenso de Washington' para América Latina?",
+                "options": [
+                    "Nacionalización de empresas.",
+                    "Subsidios al consumo masivo.",
+                    "Ajuste fiscal, privatizaciones, desregulación y apertura comercial indiscriminada.",
+                    "Sustitución de importaciones."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Fue un paquete de medidas neoliberales (años 90) que buscaba alinear las economías latinoamericanas con el capital financiero global mediante el ajuste y la privatización."
+            },
+            {
+                "question": "Según Svampa, ¿qué implica el 'Consenso de los Commodities'?",
+                "options": [
+                    "Industrialización tecnológica.",
+                    "Un modelo basado en la exportación a gran escala de bienes primarios (reprimarización) aprovechando precios altos.",
+                    "Independencia económica total.",
+                    "Prohibición de la minería."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Implica la reprimarización de la economía para exportar materias primas (soja, minerales) a gran escala, con graves consecuencias socioambientales."
+            },
+            {
+                "question": "Según Guerra y Laufer, ¿cuál es el rol de China en el siglo XXI?",
+                "options": [
+                    "Aliado desinteresado del Tercer Mundo.",
+                    "Potencia imperialista que profundiza la dependencia y el modelo extractivista en América Latina.",
+                    "País agrario sin influencia.",
+                    "Solo intercambio cultural."
+                ],
+                "correctAnswer": 1,
+                "explanation": "China actúa como una potencia imperialista que demanda materias primas y exporta capitales, reproduciendo relaciones de dependencia con la región."
+            },
+            {
+                "question": "Según Fontana, ¿qué causó el aumento de la desigualdad actual?",
+                "options": [
+                    "Leyes naturales del mercado.",
+                    "La innovación tecnológica inevitable.",
+                    "Decisiones políticas deliberadas: degradación del trabajo (ataque a sindicatos) y baja de impuestos a los ricos.",
+                    "El azar."
+                ],
+                "correctAnswer": 2,
+                "explanation": "No es natural; es fruto de una 'lucha de clases' ganada por los ricos mediante políticas que precarizan el trabajo y reducen su carga fiscal."
             }
         ],
         "flashcards": [
@@ -153,6 +208,26 @@
             {
                 "front": "Acumulación por despojo",
                 "back": "Concepto (retomado de Harvey) que describe la acumulación de capital mediante la mercantilización y privatización de bienes comunes (tierra, agua), expulsando poblaciones y eliminando formas de producción no capitalistas [49, 50]."
+            },
+            {
+                "front": "Guerra Fría (Post-1957)",
+                "back": "Según Echagüe, dejó de ser lucha socialismo-capitalismo para ser disputa interimperialista entre EE.UU. y la URSS socialimperialista."
+            },
+            {
+                "front": "Neoliberalismo (Posguerra)",
+                "back": "Contraofensiva del capital (Reagan/Thatcher) caracterizada por achicar el Estado, privatizar, desregular y atacar sindicatos."
+            },
+            {
+                "front": "Neoextractivismo",
+                "back": "Modelo de desarrollo basado en la sobreexplotación de bienes naturales (soja, minería) para exportación, generando despojo y daño ambiental."
+            },
+            {
+                "front": "Era de la Desigualdad (Fontana)",
+                "back": "Resultado de políticas conscientes de las élites para recuperar tasa de ganancia a costa de degradar el trabajo y reducir sus propios impuestos."
+            },
+            {
+                "front": "Consecuencias de los 90 (Argentina)",
+                "back": "Concentración económica, extranjerización, desindustrialización, desempleo masivo y aumento de la pobreza por políticas del Consenso de Washington."
             }
         ],
         "faq": [

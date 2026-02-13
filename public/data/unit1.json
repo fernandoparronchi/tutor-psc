@@ -110,6 +110,116 @@
                 ],
                 "correctAnswer": 2,
                 "explanation": "La Formación Social es la realidad concreta e impura, donde un modo de producción domina pero convive con restos del pasado (ej. feudalismo) y gérmenes del futuro."
+            },
+            {
+                "question": "¿Qué es la plusvalía relativa?",
+                "options": [
+                    "Aumentar las horas de trabajo.",
+                    "El aumento de la productividad mediante tecnología para abaratar el costo de vida del obrero.",
+                    "Dar bonos a los trabajadores.",
+                    "La ganancia del banco."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La plusvalía relativa se obtiene al reducir el tiempo de trabajo necesario mediante mejoras técnicas que abaratan los bienes de subsistencia."
+            },
+            {
+                "question": "¿Qué distingue a la Historia Social de la historia tradicional?",
+                "options": [
+                    "Se enfoca solo en reyes y batallas.",
+                    "Analiza la sociedad como una totalidad interconectada, enfocándose en las masas y no solo en las élites.",
+                    "Es una rama de la literatura.",
+                    "No utiliza documentos."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La Historia Social rompe con la narración de eventos políticos aislados para estudiar las estructuras profundas y la vida de las clases sociales."
+            },
+            {
+                "question": "¿Qué significa que el trabajo es una 'mercancía' en el capitalismo?",
+                "options": [
+                    "Que se vende en el supermercado.",
+                    "Que el trabajador vende su capacidad de trabajar (fuerza de trabajo) por un salario en el mercado.",
+                    "Que es algo valioso.",
+                    "Que es ilegal."
+                ],
+                "correctAnswer": 1,
+                "explanation": "En el capitalismo, la fuerza de trabajo se compra y vende como cualquier otra mercancía, sujeta a oferta y demanda."
+            },
+            {
+                "question": "¿Cuál es la contradicción fundamental del capitalismo?",
+                "options": [
+                    "Entre ricos y pobres.",
+                    "Entre la producción social (colectiva) y la apropiación privada de la riqueza.",
+                    "Entre el campo y la ciudad.",
+                    "Entre el Estado y la Iglesia."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Marx señala que mientras producimos cooperativamente en fábricas mundiales, la ganancia se la quedan unos pocos dueños privados."
+            },
+            {
+                "question": "¿Qué es la 'conciencia de clase'?",
+                "options": [
+                    "Saber qué hora es.",
+                    "La comprensión de los trabajadores de sus intereses comunes opuestos a los de la burguesía.",
+                    "Tener buena educación.",
+                    "Ser solidario."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Es el paso de ser una 'clase en sí' (estadística) a una 'clase para sí' (política), capaz de luchar por sus objetivos."
+            },
+            {
+                "question": "Según Bauzá y Lecaro, ¿qué significa 'naturalizar lo social'?",
+                "options": [
+                    "Comprender la sociedad como una totalidad compleja.",
+                    "Presentar fenómenos históricos como si fueran eternos o naturales (ej. 'siempre hubo pobres').",
+                    "Analizar la historia desde la biología.",
+                    "Proteger el medio ambiente."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Es una forma de ocultar la historia: presentar lo que es producto de luchas sociales como algo inmutable y propio de la 'naturaleza humana'."
+            },
+            {
+                "question": "Según Gramsci, ¿qué es la 'hegemonía'?",
+                "options": [
+                    "El uso exclusivo de la fuerza policial.",
+                    "Dominación basada en el consenso y la difusión cultural, a diferencia de la coerción.",
+                    "Una forma de gobierno feudal.",
+                    "La dictadura del proletariado."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La hegemonía es la dirección política, intelectual y moral que una clase ejerce sobre la sociedad, logrando que los dominados acepten su visión del mundo."
+            },
+            {
+                "question": "¿Qué es el 'privilegio del innovador' (Scaletta/Marx)?",
+                "options": [
+                    "Un subsidio del estado.",
+                    "La ganancia extraordinaria que obtiene quien introduce una nueva técnica antes que la competencia.",
+                    "El derecho de autor.",
+                    "La herencia familiar."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Es la plusvalía extraordinaria temporal que se obtiene al producir más barato que el promedio social gracias a la innovación."
+            },
+            {
+                "question": "¿Qué es la 'renta de lo intangible' en el capitalismo tecnológico (Durand)?",
+                "options": [
+                    "Vender hardware.",
+                    "Beneficio obtenido de activos como bases de datos, algoritmos y marcas, sin esfuerzo productivo directo.",
+                    "El salario de los programadores.",
+                    "El alquiler de oficinas."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Se refiere a la extracción de valor basada en el monopolio de conocimientos, datos y propiedad intelectual, más que en la producción física."
+            },
+            {
+                "question": "¿Qué caracteriza al Capitalismo Imperialista (fines s. XIX)?",
+                "options": [
+                    "Libre competencia perfecta.",
+                    "Monopolios, capital financiero, exportación de capitales y reparto del mundo.",
+                    "Paz mundial.",
+                    "Desaparición de los bancos."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Es la fase superior del capitalismo donde domina el capital financiero y las potencias se disputan violentamente el mercado mundial."
             }
         ],
         "flashcards": [
@@ -151,7 +261,26 @@
             },
             {
                 "front": "Historia desde abajo",
-                "back": "Enfoque que estudia a las clases oprimidas como protagonistas de la historia."
+            },
+            {
+                "front": "Naturalización de lo social",
+                "back": "Tendencia ideológica a presentar lo histórico (modificable) como natural (eterno), ocultando así su origen político."
+            },
+            {
+                "front": "Coacción extraeconómica",
+                "back": "Mecanismo feudal donde la apropiación del excedente se basa en la fuerza, la ley o la religión, no en el mercado."
+            },
+            {
+                "front": "Hegemonía (Gramsci)",
+                "back": "Dominación basada en el conceso y la dirección cultural/moral, logrando que los dominados acepten la ideología dominante."
+            },
+            {
+                "front": "Capital Financiero",
+                "back": "Fusión del capital bancario e industrial propia de la etapa imperialista, que domina la economía mundial."
+            },
+            {
+                "front": "Privilegio del Innovador",
+                "back": "Ganancia extraordinaria temporal obtenida por quien introduce una mejora técnica antes de que se generalice."
             }
         ],
         "faq": [

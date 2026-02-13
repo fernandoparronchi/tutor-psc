@@ -10,7 +10,8 @@
                     "La burguesía, buscando igualdad jurídica y fin de privilegios.",
                     "Los campesinos, buscando la propiedad comunal."
                 ],
-                "answer": "La burguesía, buscando igualdad jurídica y fin de privilegios."
+                "correctAnswer": 2,
+                "explanation": "La Revolución de 1789 fue dirigida por la burguesía, que buscaba romper las trabas feudales, establecer la propiedad privada libre y la igualdad ante la ley."
             },
             {
                 "question": "¿Qué fue el 'Gran Miedo' en el contexto de la Revolución Francesa?",
@@ -20,7 +21,8 @@
                     "La invasión de tropas extranjeras en París.",
                     "El miedo de la burguesía a los sans-culottes."
                 ],
-                "answer": "Levantamientos campesinos contra el sistema señorial en 1789."
+                "correctAnswer": 1,
+                "explanation": "El Gran Miedo fue una ola de pánico y revueltas campesinas en el verano de 1789, donde se quemaron títulos feudales y castillos, precipitando el fin del feudalismo."
             },
             {
                 "question": "¿Cuál fue una consecuencia social directa de los cercamientos (enclosures) en Inglaterra?",
@@ -30,7 +32,8 @@
                     "La distribución equitativa de la tierra.",
                     "El retorno al feudalismo."
                 ],
-                "answer": "La creación de una masa de trabajadores desposeídos (proletariado)."
+                "correctAnswer": 1,
+                "explanation": "La privatización de la tierra expulsó a los campesinos, creando la mano de obra libre y barata necesaria para la naciente industria."
             },
             {
                 "question": "¿Qué caracterizó al movimiento ludista?",
@@ -40,7 +43,8 @@
                     "La creación de partidos socialistas.",
                     "La negociación pacífica con los patronos."
                 ],
-                "answer": "La destrucción de máquinas como forma de protesta."
+                "correctAnswer": 1,
+                "explanation": "El Ludismo fue una forma primitiva de lucha donde los obreros rompían las máquinas al verlas como responsables de su desempleo y miseria."
             },
             {
                 "question": "¿Quiénes eran los 'sans-culottes'?",
@@ -50,7 +54,8 @@
                     "Los campesinos propietarios.",
                     "Los soldados del ejército prusiano."
                 ],
-                "answer": "Sectores populares urbanos radicales de París."
+                "correctAnswer": 1,
+                "explanation": "Eran artesanos, tenderos y trabajadores de París (llevaban pantalones largos, no 'culottes' de nobles) que impulsaron las medidas más radicales de la revolución."
             },
             {
                 "question": "¿Qué relación económica hubo entre la Revolución Industrial y las independencias latinoamericanas?",
@@ -60,7 +65,8 @@
                     "La necesidad británica de mercados para sus textiles favoreció el libre comercio.",
                     "No hubo ninguna relación económica significativa."
                 ],
-                "answer": "La necesidad británica de mercados para sus textiles favoreció el libre comercio."
+                "correctAnswer": 2,
+                "explanation": "Gran Bretaña, en plena expansión industrial, necesitaba desesperadamente mercados para vender sus telas, por lo que apoyó el fin del monopolio comercial español."
             },
             {
                 "question": "¿Qué diferencia principal hubo entre las revoluciones de 1830 y las de 1848?",
@@ -70,7 +76,8 @@
                     "En 1848 no hubo participación popular.",
                     "En 1830 triunfó la monarquía absoluta."
                 ],
-                "answer": "En 1848 participaron activamente sectores obreros con demandas propias."
+                "correctAnswer": 0,
+                "explanation": "1848 marcó la 'primavera de los pueblos' donde la clase obrera ya no marchó acríticamente detrás de la burguesía, sino que planteó demandas socialistas (república social)."
             },
             {
                 "question": "¿Qué fue la Comuna de París de 1871?",
@@ -80,7 +87,8 @@
                     "Una reforma administrativa de Napoleón III.",
                     "Un tratado de paz con Prusia."
                 ],
-                "answer": "La primera experiencia de gobierno obrero."
+                "correctAnswer": 1,
+                "explanation": "Fue un levantamiento insurreccional donde el proletariado parisino tomó el poder y gobernó la ciudad durante dos meses con medidas revolucionarias."
             },
             {
                 "question": "¿Qué sector político radical gobernó Francia durante la etapa del 'Terror'?",
@@ -90,7 +98,8 @@
                     "Los Jacobinos.",
                     "Los Monárquicos."
                 ],
-                "answer": "Los Jacobinos."
+                "correctAnswer": 2,
+                "explanation": "Los Jacobinos (liderados por Robespierre) impusieron el Terror para defender la República de los enemigos internos y externos, con fuerte apoyo popular."
             },
             {
                 "question": "¿Qué industria fue el motor de la primera fase de la Revolución Industrial?",
@@ -100,7 +109,63 @@
                     "La industria automotriz.",
                     "La industria del acero."
                 ],
-                "answer": "La industria del algodón (textil)."
+                "correctAnswer": 1,
+                "explanation": "La industria textil algodonera fue la pionera ('take-off'), impulsada por el mercado colonial y la mecanización sencilla."
+            },
+            {
+                "question": "¿Qué grupo social radicalizado fue fundamental para la etapa jacobina de la Revolución Francesa?",
+                "options": [
+                    "La aristocracia liberal.",
+                    "Los sans-culottes (artesanos y tenderos de París).",
+                    "El alto clero.",
+                    "Los girondinos moderados."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Los sans-culottes, sectores populares urbanos, impulsaron las medidas más radicales de la Revolución mediante su movilización y alianza con los jacobinos."
+            },
+            {
+                "question": "¿Cuál fue el principal legado del Código Napoleónico (1804)?",
+                "options": [
+                    "La restauración de los derechos feudales.",
+                    "La prohibición del comercio con colonias.",
+                    "La institucionalización de los principios burgueses de libertad civil, propiedad privada e igualdad ante la ley.",
+                    "El establecimiento del sufragio universal femenino."
+                ],
+                "correctAnswer": 2,
+                "explanation": "El Código Napoleónico unificó la legislación e institucionalizó los logros de la revolución burguesa, garantizando la propiedad privada y la igualdad jurídica."
+            },
+            {
+                "question": "¿Qué factor desencadenó el ciclo revolucionario de 1830 en Francia?",
+                "options": [
+                    "Las ordenanzas de Carlos X que intentaban restaurar el absolutismo y restringir libertades.",
+                    "La invasión de tropas prusianas.",
+                    "Una revuelta de esclavos.",
+                    "La ejecución de Luis XVI."
+                ],
+                "correctAnswer": 0,
+                "explanation": "La revolución de 1830 estalló como reacción a las medidas de Carlos X que intentaban suprimir la libertad de prensa y restringir el voto, buscando volver al absolutismo."
+            },
+            {
+                "question": "¿Qué caracterizó a la 'Primavera de los Pueblos' de 1848?",
+                "options": [
+                    "Fue un movimiento militar sin apoyo popular.",
+                    "Se limitó a pedir cambios dinásticos.",
+                    "Incorporó demandas democráticas (sufragio universal) y sociales, con la irrupción del socialismo y la clase obrera.",
+                    "Logró la paz inmediata en Europa."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Las revoluciones de 1848 sumaron al liberalismo político demandas de democracia social, marcando la separación política entre burguesía y proletariado."
+            },
+            {
+                "question": "¿Qué implicó la 'reacción feudal' en los orígenes de la Revolución Francesa?",
+                "options": [
+                    "La nobleza pagando impuestos voluntariamente.",
+                    "El intento de la nobleza de recuperar antiguos derechos y oponerse a reformas fiscales, lo que forzó la convocatoria de Estados Generales.",
+                    "El apoyo campesino al rey.",
+                    "La venta de tierras de la iglesia."
+                ],
+                "correctAnswer": 1,
+                "explanation": "La nobleza intentó reimponer cargas feudales y se negó a pagar impuestos, provocando una crisis política que desembocó en la convocatoria de los Estados Generales y el inicio de la revolución."
             }
         ],
         "flashcards": [
@@ -142,7 +207,27 @@
             },
             {
                 "front": "Proletariado",
-                "back": "Nueva clase social surgida con el capitalismo, compuesta por trabajadores libres pero desposeídos que deben vender su fuerza de trabajo por un salario [27, 28]."
+                "back": "Nueva clase social surgida con el capitalismo, compuesta por trabajadores libres pero desposeídos que deben vender su fuerza de trabajo a cambio de un salario [27, 28]."
+            },
+            {
+                "front": "Antiguo Régimen",
+                "back": "Sistema social y político de Francia antes de 1789: sociedad estamental (privilegios), monarquía absoluta y economía feudal."
+            },
+            {
+                "front": "Toma de la Bastilla (1789)",
+                "back": "Evento simbólico (14 de julio) donde el pueblo de París tomó la prisión real, marcando el fin del absolutismo y el inicio de la Revolución."
+            },
+            {
+                "front": "Derechos del Hombre y del Ciudadano",
+                "back": "Documento fundamental de 1789 que estableció los principios de libertad, igualdad ante la ley y propiedad privada, base del orden burgués."
+            },
+            {
+                "front": "Revolución de Haití",
+                "back": "Primera revolución de esclavos exitosa (1791-1804), liderada por Toussaint L'Ouverture, que logró la abolición y la independencia influida por ideales franceses."
+            },
+            {
+                "front": "Liberalismo vs. Democracia (1848)",
+                "back": "El liberalismo (1830) pedía voto censitario (ricos). La democracia del 48 exigía sufragio universal y derechos sociales para los trabajadores."
             }
         ],
         "faq": [
