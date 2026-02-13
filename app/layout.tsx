@@ -42,6 +42,9 @@ export default function RootLayout({
               <a href="/mapa" className="block px-4 py-3 rounded-xl text-gray-400 hover:text-white hover:bg-white/5 transition-all">
                 Mapa del Programa
               </a>
+              <a href="/oral" className="block px-4 py-3 rounded-xl text-amber-400/80 hover:text-amber-300 hover:bg-amber-500/10 transition-all font-medium border border-amber-500/20">
+                🔥 Guía Final Oral
+              </a>
               <a href="/simulacro" className="block px-4 py-3 rounded-xl text-gray-400 hover:text-white hover:bg-white/5 transition-all">
                 Simulacro Final
               </a>

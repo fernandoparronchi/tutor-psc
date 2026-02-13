@@ -13,6 +13,7 @@ export default function Dashboard() {
   }, []);
 
   const tasks = [
+    { id: 0, title: "Estudiar Guía Final Oral (Prioridad)", completed: false, type: "oral" },
     { id: 1, title: "Escuchar Unidad 2: Resumen", completed: true, type: "audio" },
     { id: 2, title: "Quiz: Revolución Industrial", completed: false, type: "quiz" },
     { id: 3, title: "Repaso Flashcards: Imperialismo", completed: false, type: "flashcards" },
